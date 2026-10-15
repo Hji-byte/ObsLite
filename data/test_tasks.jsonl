@@ -1,0 +1,500 @@
+{"task_id": 0, "split": "test", "instruction_reference": "i need a long clip-in hair extension which is natural looking", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 1, "split": "test", "instruction_reference": "i want a noise cancelling cosycost usb microphone", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 2, "split": "test", "instruction_reference": "im looking for hair treatments that are sulfate and paraben free and are of high quality too. i need it in bottle for with 60 capsules", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 3, "split": "test", "instruction_reference": "i need gluten free vegetarian smoked peppered bacon - 4 ounce (pack of 2)", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 4, "split": "test", "instruction_reference": "find me a high speed dual style package with  12 power amplifier car subwoofer", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 5, "split": "test", "instruction_reference": "im looking for a space-saving ottoman bench to match my blue living room. pick that one thats 100x45x45cm", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 6, "split": "test", "instruction_reference": "im looking for a queen size bedspread set in the color redwood", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 7, "split": "test", "instruction_reference": "im looking for a styling cream that is cruelty free and for short hair", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 8, "split": "test", "instruction_reference": "i want to find xx-large black workout sweatpants with a relaxed fit", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 9, "split": "test", "instruction_reference": "i am looking for a grey sectional sofa for my living room", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 10, "split": "test", "instruction_reference": "i would like a bundle of crackers, spicy beef and cheese which is shelf stable. it also needs to be keto and gluten free", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 11, "split": "test", "instruction_reference": "i am looking to buy a womans us size 5 high heel shoe with a rubber sole and color patent-beige", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 12, "split": "test", "instruction_reference": "i am looking for a remote control for an lg blu-ray dvd home theater system", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 13, "split": "test", "instruction_reference": "i need a long lasting 6.76 fl oz bottle of leau dissey", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 14, "split": "test", "instruction_reference": "i am looking for dairy free and apple variety pack of chips", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 15, "split": "test", "instruction_reference": "i need a gingko light and 20x20 pillow cover that is hand painted", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 16, "split": "test", "instruction_reference": "im looking for lead free luxury scented candle which last for 25+ hours, it should be in tin voyager", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 17, "split": "test", "instruction_reference": "i am looking for mn4 color foundation for my sensitive skin", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 18, "split": "test", "instruction_reference": "i want double horn bluetooth wireless speakers which is portable and easy to carry", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 19, "split": "test", "instruction_reference": "i am looking for a high power sound column subwoofer, that uses bluetooth and is also a 3d surround sound system", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 20, "split": "test", "instruction_reference": "i need a six pack of manual toothbrushes that are good for sensitive teeth", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 21, "split": "test", "instruction_reference": "can you find me a shelf stable potato side dish?  i want something that i can cook in the microwave", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 22, "split": "test", "instruction_reference": "i need a highspeed hdmi cable that is purple", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 23, "split": "test", "instruction_reference": "im looking for machine wasable savannan burlap placemat with compatible table runner with dahlia flower print table set of 6 pcs. also choose color golden circlesan4455 with size 13x70inch+13x19inch*4", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 24, "split": "test", "instruction_reference": "i am looking for a high speed 3 foot red usb cable", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 25, "split": "test", "instruction_reference": "im looking for a great river organic milling flour", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 26, "split": "test", "instruction_reference": "i would like a 20m digital 4g lte coaxial cable thats male to female", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 27, "split": "test", "instruction_reference": "i need high quality pillow covers in color a-8 and it should be fade resistant", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 28, "split": "test", "instruction_reference": "i am looking for an oral hygiene toothbrush. it should be easy to carry", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 29, "split": "test", "instruction_reference": "i need a long lasting fragrance gift set for women", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 30, "split": "test", "instruction_reference": "i need gluten free popcorn", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 31, "split": "test", "instruction_reference": "i am looking for  gluten free black rock salt made by himalayan . and i choose the 2.8 ounce pack with himalayan pink salt coarse grind", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 32, "split": "test", "instruction_reference": "i am looking for a black fast wireless universal charging stand", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 33, "split": "test", "instruction_reference": "i need a set of leak proof, bpa free jars", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 34, "split": "test", "instruction_reference": "im looking for  made a cookies for birthday parties", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 35, "split": "test", "instruction_reference": "i am searching for a gold color smart watch bands compatible for apple and any one of the sizes 38mm | 40mm | 41mm", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 36, "split": "test", "instruction_reference": "im looking for a single pack of old style, brown hair dye", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 37, "split": "test", "instruction_reference": "i am looking for a pendant light to go in my dining room with dimmer switch", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 38, "split": "test", "instruction_reference": "i am searching for a high gloss tv stand with additional storage space. also, choose an ob color", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 39, "split": "test", "instruction_reference": "i want to buy a pair of but lifting grey skinny jean shorts", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 40, "split": "test", "instruction_reference": "i need a futon and chaise set that is made with faux leather. and i would prefer the navy linen color", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 41, "split": "test", "instruction_reference": "im trying to find white bluetooth speakers that are not only water resistant but also come with stereo sound", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 42, "split": "test", "instruction_reference": "i would like a 8 fluid ounce bottle of tea tree lotion", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 43, "split": "test", "instruction_reference": "im looking for some black high heeled sandals for my mom. she wears size 5.5", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 44, "split": "test", "instruction_reference": "im looking for a silicon exfoliating body scrubber which would be easy to use", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 45, "split": "test", "instruction_reference": "i am looking for some easy to install gold plated banana plugs for speaker wire", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 46, "split": "test", "instruction_reference": "im looking for hair extensions for natural hair and straight hair so need to buy it", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 47, "split": "test", "instruction_reference": "i want capri sun pacific cooler mixed fruit naturally flavored juice drinks", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 48, "split": "test", "instruction_reference": "find me a motion detection high definition outdoor camera with 1080p hd definition", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 49, "split": "test", "instruction_reference": "i need an engineered wood end table", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 50, "split": "test", "instruction_reference": "i want to find a womens gift set that contains long-lasting edt spray and body cream", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 51, "split": "test", "instruction_reference": "locate the ambesonne harbour stripe throw pillow cover, 18 x 18 inch, double sided.  i want the salmon brown color", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 52, "split": "test", "instruction_reference": "i want a body wash that is dermatologist tested. it should have a cucumber and aloe scent", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 53, "split": "test", "instruction_reference": "i need a beige or green shower brush with a long handle", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 54, "split": "test", "instruction_reference": "i would like a 16.9 fluid ounce amber bottle that could be used in a hair salon", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 55, "split": "test", "instruction_reference": "im looking for a black alarm clock radio that displays the temperature and uses a usb port", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 56, "split": "test", "instruction_reference": "im looking for a high performance paint contrast projector", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 57, "split": "test", "instruction_reference": "i need some kosher sea salt", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 58, "split": "test", "instruction_reference": "can i get a 2 light bath vanity lighting set with nickel finish?", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 59, "split": "test", "instruction_reference": "i am looking for non gmo sesame pretzels that come in a 12 pack", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 60, "split": "test", "instruction_reference": "i want to find a yellow manual toothbrush suitable for 7-14 year old kids with sensitive teeth", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 61, "split": "test", "instruction_reference": "hey i need some new press on nails.  get me babalal cat eye ones that arent toxic and make sure the color you get is purple", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 62, "split": "test", "instruction_reference": "i am looking for dell ultra small desktop computer with core i5 , 16gb ram , 256gb ssd and windows 10 pro", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 63, "split": "test", "instruction_reference": "i am looking for a kahuna colored capri pant that has a relaxed fit and is in a size 20 plus", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 64, "split": "test", "instruction_reference": "get a tongue cleaner that is easy clean and use, and is also stainless steel", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 65, "split": "test", "instruction_reference": "i nee all natural but no artificial ingredients savory and spicy sauce, 3 pack with sweet kick mustard flavor", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 66, "split": "test", "instruction_reference": "i am looking for some alcohol free skin care", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 67, "split": "test", "instruction_reference": "i need a stainless steel gua sha set that includes the roller and box", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 68, "split": "test", "instruction_reference": "i would like a pair of brown size 7 shoes with a rubber sole", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 69, "split": "test", "instruction_reference": "i need a 30 pair pack of skin care masks for eyes and wrinkles", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 70, "split": "test", "instruction_reference": "i need a purple braces brush that is easy to carry", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 71, "split": "test", "instruction_reference": "im looking for a long lasting foundation that has spf50+.  also, choose the color no. 21", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 72, "split": "test", "instruction_reference": "i am looking for easy spirit traveltime529 mule shoes with arch support, rubber soles and in size 7.5 wide", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 73, "split": "test", "instruction_reference": "find me the fomiyes 4pcs silicone travel bottles that are easy to carry", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 74, "split": "test", "instruction_reference": "i would like a pink ottoman with a solid wooden frame", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 75, "split": "test", "instruction_reference": "i would like a three pack of 4 fluid ounce green envy hair dye", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 76, "split": "test", "instruction_reference": "i want a mid century console sofa table", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 77, "split": "test", "instruction_reference": "i would like a pink cosmetic bag that is easy to clean", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 78, "split": "test", "instruction_reference": "i am looking for a grey  mules & clogs for day comfert", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 79, "split": "test", "instruction_reference": "i would like to get a 24 pack of 7.5 ounce bottles of non-gmo classic tonic", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 80, "split": "test", "instruction_reference": "i need a 9.5 rubber soled hiking shoe made of light weight vinyl acetate", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 81, "split": "test", "instruction_reference": "i need a french vanilla soy wax candle", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 82, "split": "test", "instruction_reference": "i would like a black brown to tan hairpiece made from synthetic hair", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 83, "split": "test", "instruction_reference": "i need a slim fit gray colored coat that has long sleeves. it should be in x-large size", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 84, "split": "test", "instruction_reference": "i would like to have a plug and play high speed usb flash drive that is blue and black, the quantity should be 3 of 32g or 2 of 64g", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 85, "split": "test", "instruction_reference": "i need a chocolate coated wafers with a 4.41 ounce size. and i choose the caramel flavor", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 86, "split": "test", "instruction_reference": "i need high speed hdmi cables that are 10 feet long and in a 5 pack", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 87, "split": "test", "instruction_reference": "i want yellow machine washable batmerry summer bright decorative pillow covers", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 88, "split": "test", "instruction_reference": "im looking for womens bootcut pants in the brand of tapata", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 89, "split": "test", "instruction_reference": "i need khaki steel toe shoes in size 11 women", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 90, "split": "test", "instruction_reference": "i would like a 7 piece king comforter set decorated with flowers and is machine washable", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 91, "split": "test", "instruction_reference": "im looking for a earbud headphones for stereo sound quality of style je-04b which will be more comfortable for me to use without disturbing others ", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 92, "split": "test", "instruction_reference": "i would like a blue 2.95 foot wire pendent light for my living room", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 93, "split": "test", "instruction_reference": "i am looking for wireless bluetooth speakers in the color a", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 94, "split": "test", "instruction_reference": "i am looking for a x- large casual dresses with long sleeves", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 95, "split": "test", "instruction_reference": "i would like to have a kosher gelato", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 96, "split": "test", "instruction_reference": "i want to find a pink womens quilted puffy vest that i can machine wash. the size needs to be extra large", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 97, "split": "test", "instruction_reference": "looking for light weight fitbit versa bands for men women also choose size large", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 98, "split": "test", "instruction_reference": "i need a fragrance free facial wash", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 99, "split": "test", "instruction_reference": "i would like to buy a 14 inch rose gold throw pillow cover for my living room", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 100, "split": "test", "instruction_reference": "i want a rca cable that is high def", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 101, "split": "test", "instruction_reference": "i want mivofun 11pcs cute dinosaur cake toppers for a baby shower", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 102, "split": "test", "instruction_reference": "i am in need of elastic waist winter active running joggers pants of small size and dark grey color", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 103, "split": "test", "instruction_reference": "i am looking for a 32gb 1tb ssd pcle nvme m.2 size intel core minis", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 104, "split": "test", "instruction_reference": "looking for an easy to deliver vintage barbecue sauce needle sleeve white womens halloween t-shirt by tomorrow? forgot to machine wash", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 105, "split": "test", "instruction_reference": "im looking for black colored high quality hair removal cream it easy to use", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 106, "split": "test", "instruction_reference": "i am looking for a white platform bed that is easy to assemble", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 107, "split": "test", "instruction_reference": "i am looking for shoes that are grey and light blue with a rubber sole in a size 11-11.5 women", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 108, "split": "test", "instruction_reference": "i am looking for open toe sandals with an ankle strap. i want it in size 10", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 109, "split": "test", "instruction_reference": "i need a wall lamp with clear glass", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 110, "split": "test", "instruction_reference": "i want a black and high quality cenglings womens cowl neck sweatshirt", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 111, "split": "test", "instruction_reference": "i need a s20 tv sound bar that comes with a wireless bluetooth speaker", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 112, "split": "test", "instruction_reference": "i am looking for a headphones case that is apple compatible and is navy blue colored", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 113, "split": "test", "instruction_reference": "i need a pair of low rise yellow briefs in a large", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 114, "split": "test", "instruction_reference": "i want a easy install roller sades window tretment  size w45*h56 in color pastel blue", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 115, "split": "test", "instruction_reference": "id like to find a large pink tankini swimsuit thats loose-fitting", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 116, "split": "test", "instruction_reference": "im looking for a mini pc intel core desktop computer which supports with windows 11", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 117, "split": "test", "instruction_reference": "im looking for headphones are color it was wireless charging it was outside of noise cancellation", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 118, "split": "test", "instruction_reference": "i need a hair elastic for my hair extensions", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 119, "split": "test", "instruction_reference": "i want to find a loofah back scrubber with a long handle", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 120, "split": "test", "instruction_reference": "i am looking for a satin brass and frosted hallway light fixtures", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 121, "split": "test", "instruction_reference": "i need an oval soft rug that is easy to clean. also, it should be in eggplant purple color", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 122, "split": "test", "instruction_reference": "i need a gold plated hdmi adapter that is capable of 4k", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 123, "split": "test", "instruction_reference": "i need a smartwatch case that is compatible with apple and is in a size 45 mm", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 124, "split": "test", "instruction_reference": "i want to buy a box of savory fava bean snacks that are non-gmo.  find the pack that has 21 bags", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 125, "split": "test", "instruction_reference": "i need a leak proof travel bottle that is reusable and comes in 6 pack", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 126, "split": "test", "instruction_reference": "i am looking for the perfect gift, with quality ingredients like jack daniels pecan", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 127, "split": "test", "instruction_reference": "i want to buy a skin cream which is fragrance free and it is for smoothing eye contour", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 128, "split": "test", "instruction_reference": "i want a 10 ounce bottle of low calorie fries seasonings", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 129, "split": "test", "instruction_reference": "i need some teeth whitening that also freshens breath", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 130, "split": "test", "instruction_reference": "id like to find a pair of size-12 mens waterproof sneakers. it should have ethylene vinyl and ideally i want the color to be breen", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 131, "split": "test", "instruction_reference": "i am looking for super soft and fleece throw blanket in multi 10 color", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 132, "split": "test", "instruction_reference": "find me a non alcoholic and zero sugar mocktail", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 133, "split": "test", "instruction_reference": "i am interested in hand crafted hors doeuvres", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 134, "split": "test", "instruction_reference": "i want a 512gb samsung galaxy tab s7 with usb port", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 135, "split": "test", "instruction_reference": "i would like a xlarge plus red camellia fleece jacket that can be machine washed", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 136, "split": "test", "instruction_reference": "i am looking for an easy to clean jewelry box with 10 slots", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 137, "split": "test", "instruction_reference": "i am looking for fuchsia colored comfortable fit levis bomber jacket for women", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 138, "split": "test", "instruction_reference": "i am looking for a double sided white apron for shaving and trimming", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 139, "split": "test", "instruction_reference": "i am looking for dark denim color ethylene vinyl ultra train of size 10, 3rd generation for  men", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 140, "split": "test", "instruction_reference": "im looking for some womens sneakers with rubber soles.  make sure they are fabric and in a size 6.5", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 141, "split": "test", "instruction_reference": "i want something that will let me use my cell phone hands free and has the kansas city chiefs logo on it. it should allow for wireless charging", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 142, "split": "test", "instruction_reference": "i am looking for red storage benches that are made of engineered wood and are 90 by 40 by 45", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 143, "split": "test", "instruction_reference": "i am looking for a high resolution background of size 9x6ftpolyester", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 144, "split": "test", "instruction_reference": "i am looking for a 4 light vanity light with a contemporary design", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 145, "split": "test", "instruction_reference": "im looking to buy a high resolution marine animal themed backdrop. the size should be 12x10ft", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 146, "split": "test", "instruction_reference": "i would like a 34 piece set of some long lasting press on nails", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 147, "split": "test", "instruction_reference": "im looking for 8.12 fluid ounces of sulfate-free shampoo that helps prevent hair loss", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 148, "split": "test", "instruction_reference": "i am looking for a square area rug that is grey and ivory and measures 2 feet by 2 inch by 17 feet", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 149, "split": "test", "instruction_reference": "i would like a cruelty-free coconut scented shampoo", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 150, "split": "test", "instruction_reference": "i would like a extra round 53mm brush for hair styling", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 151, "split": "test", "instruction_reference": "i want machine washable dream catcher light proof curtains that is 55 w x 45 l", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 152, "split": "test", "instruction_reference": "find cookies made with high fructose", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 153, "split": "test", "instruction_reference": "im looking for a black 2-ounce makeup storage jar that is leak proof and easy to use", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 154, "split": "test", "instruction_reference": "i need a fleece jacket that is regular fit size 3x in the color of sea salt", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 155, "split": "test", "instruction_reference": "im looking for 20 inch double sided tape hair extensions of balayage color", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 156, "split": "test", "instruction_reference": "im looking for a sturdy and solid dummy camera thats portable and made of stainless steel. also, choose the one thats easy to install", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 157, "split": "test", "instruction_reference": "i am looking for ladies large size black06 colored jeans with straight leg fit", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 158, "split": "test", "instruction_reference": "show me flip flops that are unisex and made of ethylene vinyl. i am a size 6", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 159, "split": "test", "instruction_reference": "i am looking for a cruelty free shampoo for a hair salon. also choose 250ml pack and copper style", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 160, "split": "test", "instruction_reference": "i am looking for a blue, fast charging usb cord that is compatible with apple and is 16 feet long", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 161, "split": "test", "instruction_reference": "i would like a blue long sleeved sweatshirt that is the size 4x-large", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 162, "split": "test", "instruction_reference": "i want to find gluten free maple syrup that comes in a 32 fluid ounce bottle", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 163, "split": "test", "instruction_reference": "i am looking for  a lace closure water booties & socks of red color", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 164, "split": "test", "instruction_reference": "im looking for breastfeeding shits maternity cloths double layer postpartum shirt", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 165, "split": "test", "instruction_reference": "look for a pair of open toed sandals with an ankle strap. i want them in beige, size 8", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 166, "split": "test", "instruction_reference": "i would like a large gray pair of leggings with a high waist", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 167, "split": "test", "instruction_reference": "i need ten 12 foot high speed hdmi male to male cables", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 168, "split": "test", "instruction_reference": "im looking for navy colored large sized jackets it can use for winter warm", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 169, "split": "test", "instruction_reference": "i would like a anti perspirant", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 170, "split": "test", "instruction_reference": "i need an alcohol free hair fragrance that is island vanilla scent", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 171, "split": "test", "instruction_reference": "i want long lasting wrangler mens smoke storm cowboy cut jeans", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 172, "split": "test", "instruction_reference": "i am looking for a sugar free energy drink of zero ultra flavor", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 173, "split": "test", "instruction_reference": "im looking for a car amp/speaker combo with 8 gauge amp wiring kit with four 450 watt kickers cs series with 2 way car coaxials and a 4 channel bluetooth amp included", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 174, "split": "test", "instruction_reference": "im looking for 2 pcs detangling hair brush for natural hair. also its color should be in green-black", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 175, "split": "test", "instruction_reference": "i want cheese pretzelhaus soft individually wrapped bavarian baked pretzels", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 176, "split": "test", "instruction_reference": "i want to find a height-adjustable desk chair in the color petal green", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 177, "split": "test", "instruction_reference": "im looking for wall art for hanging through the wall", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 178, "split": "test", "instruction_reference": "i need 15 pounds of non gmo beans", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 179, "split": "test", "instruction_reference": "i want mitchum roll-on anti-perspirant", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 180, "split": "test", "instruction_reference": "im looking for a lip pencil high pigmented for long lasting and melrose place color", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 181, "split": "test", "instruction_reference": "i need a cosmetic bag that is easy to carry and is leopard print", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 182, "split": "test", "instruction_reference": "im looking for d17(dedicated right, back) high performance 3-way tower speaker made with carbon fiber", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 183, "split": "test", "instruction_reference": "i would like a 3.52 ounce packet of kat a kat seasoning thats easy to use", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 184, "split": "test", "instruction_reference": "i am looking to buy a paraben free makeup remover containing hyaluronic acid", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 185, "split": "test", "instruction_reference": "i am looking for x-large mint green snow boots that have a rubber outsole", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 186, "split": "test", "instruction_reference": "i am looking for a short sleeve top for a teenage girl. it should in xx-large size", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 187, "split": "test", "instruction_reference": "im looking for a dining room table thats made out of solid wood and easy to assemble", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 188, "split": "test", "instruction_reference": "i am looking for a wall mounted mid-century sconce that preferably has a plug in 2 pack", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 189, "split": "test", "instruction_reference": "i want to get a super soft blue fleece throw thats 50 inches by 63 inches", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 190, "split": "test", "instruction_reference": "i would like a ac adapter that has output protection", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 191, "split": "test", "instruction_reference": "storage ottoman bench with hinged lid which size 40*40*43cm", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 192, "split": "test", "instruction_reference": "i am interested in a non slip area rug that is 70 by 55 inch", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 193, "split": "test", "instruction_reference": "im looking for an 8-pack of 8-inch portable hair extensions. the color needs to be wine red", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 194, "split": "test", "instruction_reference": "i need a large sized coat with long sleeves", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 195, "split": "test", "instruction_reference": "i would like 36 packets of black tea bags that are usda certified organic", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 196, "split": "test", "instruction_reference": "i am looking for a high quality purple ice roller skin care tool kit", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 197, "split": "test", "instruction_reference": "i am looking for a star wars the mandalorian t-shirt which is machine washable and is in the baby blue color", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 198, "split": "test", "instruction_reference": "im looking for rubber stole shoes for light wearing it was brown in color", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 199, "split": "test", "instruction_reference": "i would like some old fashioned summer sausage", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 200, "split": "test", "instruction_reference": "i would like a small blue blazer that can be dry cleaned", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 201, "split": "test", "instruction_reference": "im looking for curtains for living room and it color was white", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 202, "split": "test", "instruction_reference": "i am looking for a ready to use cocktail mixer that is authentic michelada mix and is 33.8 fl oz", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 203, "split": "test", "instruction_reference": "i want to find white blackout shades that are 66 inches in width and 66 inches in height. they need to be easy to install", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 204, "split": "test", "instruction_reference": "i am looking for men classic fit t-shirt. please choose black color", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 205, "split": "test", "instruction_reference": "i need to buy a vanity light in brushed nickel with two lights", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 206, "split": "test", "instruction_reference": "i am looking for human hair toppers for hair loss. i would like something in a medium brown", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 207, "split": "test", "instruction_reference": "i need a ready to hang wall mirror in a champagne sunburst color", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 208, "split": "test", "instruction_reference": "i need 3v long lasting and high performance batteries in a pack of 6", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 209, "split": "test", "instruction_reference": "i am looking for a 6x9 ft backgrounds for digital photography", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 210, "split": "test", "instruction_reference": "im looking for a meals with zero added sugar and also free from gluten and bpa. also, choose applesauce flavored one", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 211, "split": "test", "instruction_reference": "i want to buy a mid-back drafting chair that has an adjustable height and lumbar support. look for a blue one", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 212, "split": "test", "instruction_reference": "i am looking for wireless bluetooth headphones that are easy to use", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 213, "split": "test", "instruction_reference": "i want a 24w led light with high power lamp. it should mount on a wall", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 214, "split": "test", "instruction_reference": "im looking for a pair of water resistant brown pants", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 215, "split": "test", "instruction_reference": "i need a fluoride free toothpaste for fresh breath. i will need a pack of 4 in 3.5 ounce size", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 216, "split": "test", "instruction_reference": "i want to find a pack of nine low-carb cheese bites from trader joes", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 217, "split": "test", "instruction_reference": "i want to buy canvas prints for the living room preferably having airplanes on them", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 218, "split": "test", "instruction_reference": "i would like a ready hang poster that has blue roads", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 219, "split": "test", "instruction_reference": "i want to get a two pack vanity light with brushed nickel finish in color type 2", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 220, "split": "test", "instruction_reference": "i would like a medium sized black sleep set that is light weight", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 221, "split": "test", "instruction_reference": "i need to buy a ready to hang art print thats sixteen by twenty-four inches. look for one that has women and palm leaves on it", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 222, "split": "test", "instruction_reference": "i want a monocular telescope for bird watching", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 223, "split": "test", "instruction_reference": "im looking for a topper for a birthday cake", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 224, "split": "test", "instruction_reference": "i want a juniper and fully assembled rivet decatur modern upholstered dining chair", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 225, "split": "test", "instruction_reference": "i am looking for a organic and gluten free almond nut butter with kosher certified. also choose chocolate favor and 4-pack size", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 226, "split": "test", "instruction_reference": "im looking for a solid wood bookcase in espresso color. would prefer it to be in the size of 5-shelf", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 227, "split": "test", "instruction_reference": "i am looking fort a travel size skincare kit with tea tree toner", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 228, "split": "test", "instruction_reference": "im looking for cake toppers for a birthday party", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 229, "split": "test", "instruction_reference": "i am looking for red popcorn boxes for a baby shower", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 230, "split": "test", "instruction_reference": "i am looking for resilient memory foam loveseat sofa", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 231, "split": "test", "instruction_reference": "get me some twin-sized flat sheets in gray", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 232, "split": "test", "instruction_reference": "im looking for a 10 pack of hydrating sheet masks with anti aging properties. i would like to select the spa hairband option", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 233, "split": "test", "instruction_reference": "i am looking for a blue ottomans for living room", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 234, "split": "test", "instruction_reference": "i am looking for a straight leg jeans in sandblast light color. also in 40w x 34l size", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 235, "split": "test", "instruction_reference": "i need a faux fur white andeworld swivel barrel chair for my living room", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 236, "split": "test", "instruction_reference": "i need an evening gown in purple that is a size four", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 237, "split": "test", "instruction_reference": "i am looking for a 12 ounce jar of raspberry preserve that is nut and gluten free", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 238, "split": "test", "instruction_reference": "i want an officially licensed white marvel guardians of the galaxy retro logo tee", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 239, "split": "test", "instruction_reference": "i need some extra large butt lifting leggings in mint green", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 240, "split": "test", "instruction_reference": "i want to buy some chunky red glitter. make sure its non-toxic and eco-friendly", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 241, "split": "test", "instruction_reference": "i want a highly pigmented lip gloss that is in the color r901", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 242, "split": "test", "instruction_reference": "i want a high quality tooth brush for my sensitive teeth. it should be pale yellow in color", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 243, "split": "test", "instruction_reference": "i want a pack of wall lamps for a living room", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 244, "split": "test", "instruction_reference": "im looking for an easy carry and light weight photography backdrop. also, choose the 7x5ft size", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 245, "split": "test", "instruction_reference": "im looking for a ottoman 6 seater sofa", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 246, "split": "test", "instruction_reference": "i would like a solid wood sideboard", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 247, "split": "test", "instruction_reference": "i want a black 1080p hd mini projector", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 248, "split": "test", "instruction_reference": "please select a 1 pound, certified organic sea salt shaker in the flavor triple blend flakes", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 249, "split": "test", "instruction_reference": "get me some black lounge pants with an elastic waistband", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 250, "split": "test", "instruction_reference": "i want a x-large short sleeve mayntop womens t-shirt", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 251, "split": "test", "instruction_reference": "im looking for a queen size bed with a box spring", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 252, "split": "test", "instruction_reference": "i want to find a gold pendant light for my living room ceiling", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 253, "split": "test", "instruction_reference": "im looking for an officially licensed minecraft alex with bow taking aim tshirt in youth size and heather grey color", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 254, "split": "test", "instruction_reference": "i need multicolored hair bands that are non toxic", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 255, "split": "test", "instruction_reference": "i need a 38mm smartwatch case with glass screen", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 256, "split": "test", "instruction_reference": "buy me some coffee brown hair dye. make sure it only contains natural ingredients", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 257, "split": "test", "instruction_reference": "i want a xx-large sousuoty short sleeve shirt", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 258, "split": "test", "instruction_reference": "im looking for led tv stand for 70 inch", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 259, "split": "test", "instruction_reference": "im looking for some gluten free jelly with black sesames", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 260, "split": "test", "instruction_reference": "im looking for furniture to make my living room and dinning room so nice", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 261, "split": "test", "instruction_reference": "this brand eurofase 23271-036 zuma frosted tube glass with cast metal frame sconce wall mount lighting, 2-light 80 total watts, 13h x 5w, bronze finish for my living room, help me", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 262, "split": "test", "instruction_reference": "i want a pair of black mens work shoes that are slip resistant. they must come in a size 9.5 and be extra wide", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 263, "split": "test", "instruction_reference": "what xx-large short sleeved t-shirts do you have that are loose fitting and for teen girls?", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 264, "split": "test", "instruction_reference": "i am looking for spicy fried fish seasoning that is also suitable for vegetarians and easy to use", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 265, "split": "test", "instruction_reference": "i would like some travel bottles for my cosmetics", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 266, "split": "test", "instruction_reference": "i would like a car in dash gps device that is easy to install", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 267, "split": "test", "instruction_reference": "i am looking for a solid wood light golden brown stained bookcase", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 268, "split": "test", "instruction_reference": "i would like a 1 tb nvme with 64 gig quad core desktop mini", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 269, "split": "test", "instruction_reference": "im looking for teeth cleansing for teeth whitening and the fresh breathe", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 270, "split": "test", "instruction_reference": "i need white walking shoes with arch support", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 271, "split": "test", "instruction_reference": "get me a forty pack of old-fashioned popcorn", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 272, "split": "test", "instruction_reference": "i need some colorful wall dividers to arrange my living room for a holiday", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 273, "split": "test", "instruction_reference": "find a high protein puffed snack to be made on a brick oven", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 274, "split": "test", "instruction_reference": "i’m looking for a large multi-pack of sweetener that contains no sugar; please pick the blue raspberry flavour", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 275, "split": "test", "instruction_reference": "im looking for oil free hair conditioner that offers a cruelty free certification", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 276, "split": "test", "instruction_reference": "i want pink hair styling parting combs for braids", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 277, "split": "test", "instruction_reference": "i am looking for a pack of 5 dark blonde hair dye touch up spray", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 278, "split": "test", "instruction_reference": "im looking for plug play electronics for computer components and need to buy it", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 279, "split": "test", "instruction_reference": "i need a blue sherpa wool sweatshirt", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 280, "split": "test", "instruction_reference": "buy me a 4x-large sized long sleeved shirt made from soft material in g05#black color", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 281, "split": "test", "instruction_reference": "i want to find eco-friendly candles made out of soy wax in the ms. coco color", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 282, "split": "test", "instruction_reference": "i need a gray vanity bench with metal legs", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 283, "split": "test", "instruction_reference": "i need a gift basket with milk chocolate covered peanuts", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 284, "split": "test", "instruction_reference": "i would like sesame seeds that are gluten free and ginger flavored as well as being .8 oz", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 285, "split": "test", "instruction_reference": "i am interested in buying ground seeds which are gmo free, and fat free which have himalayan pink salt fine grind flavor and are in pack of 1 of 2.6 ounce", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 286, "split": "test", "instruction_reference": "i would like to buy mens briefs which is easy care and of stripe color and a unique design", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 287, "split": "test", "instruction_reference": "shop for a light weight windows desktop pc", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 288, "split": "test", "instruction_reference": "i am looking for some hair pins that are rose gold", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 289, "split": "test", "instruction_reference": "i want to find a wooden table that i can put in my dining room", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 290, "split": "test", "instruction_reference": "im looking for a size 2.55 ounce anti aging hydra-nutrition day cream", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 291, "split": "test", "instruction_reference": "i need a cinewhite projector screen that is ultra hd and light weight", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 292, "split": "test", "instruction_reference": "i am looking for brown color classic fit t-shirt", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 293, "split": "test", "instruction_reference": "i need a high power amplifier adapter for home audio", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 294, "split": "test", "instruction_reference": "i want a dongtai 1080p hd hot link remote surveillance camera", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 295, "split": "test", "instruction_reference": "i need hair extensions of 18 inch in #1 jet black color made of natural hair", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 296, "split": "test", "instruction_reference": "i am looking for a fleece throw that is maroon and 50 by 60", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 297, "split": "test", "instruction_reference": "i am looking for ca perfume club fragrance in the 0.17 fl oz travel size", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 298, "split": "test", "instruction_reference": "find me the soy free 3.5 ounce 4-pack of dang thai rice chips, and make sure they are the aged cheddar flavor.  i also need the ones in the resealable bags", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 299, "split": "test", "instruction_reference": "i need a 3 pack of ethique solid deodorant bar for men and women.  i want the oil-free variety", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 300, "split": "test", "instruction_reference": "im looking for a replacement remote with batteries included", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 301, "split": "test", "instruction_reference": "i would like a 6 ounce variety of grain free cacao granola", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 302, "split": "test", "instruction_reference": "im looking for a french vanilla zero calorie and zero sugarand flavor stevia energy", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 303, "split": "test", "instruction_reference": "i want to find a usb headset thats certifiably refurbished and has a plug to play", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 304, "split": "test", "instruction_reference": "i am looking for a mens long sleeve button down light blue shirt", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 305, "split": "test", "instruction_reference": "i would like to get some medium grey shorts that i can machine wash", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 306, "split": "test", "instruction_reference": "i am looking for some valentines day cupcake toppers", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 307, "split": "test", "instruction_reference": "i am looking for hands free, noise cancelling earphones in the color blue", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 308, "split": "test", "instruction_reference": "i would like to buy to some fat free non gmo original beef jerky", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 309, "split": "test", "instruction_reference": "i need some cute heart-shaped glittery cupcake picks as a gift to bring to a baby shower", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 310, "split": "test", "instruction_reference": "i need a black wall mouinted mirror for the living room", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 311, "split": "test", "instruction_reference": "i need a long sleeved sleep set in a 4x-large in the color mt7308", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 312, "split": "test", "instruction_reference": "i am looking for a high speed male to female hdmi cable", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 313, "split": "test", "instruction_reference": "im looking for a kids toothbrush for ages 6 to 12 that will help with teeth whitening and is easy to use", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 314, "split": "test", "instruction_reference": "i need some whitening toothpaste", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 315, "split": "test", "instruction_reference": "i need a tempered glass window film two pack in the color 91768059675860000 and 23.6 in by 23.6 in", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 316, "split": "test", "instruction_reference": "i want degree men anti-perspirant", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 317, "split": "test", "instruction_reference": "i need a blue portable bluetooth speaker that is easy to carry", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 318, "split": "test", "instruction_reference": "i want a q color long lasting lipstick made with natural ingredients", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 319, "split": "test", "instruction_reference": "i am looking for a large tunic that is 2-pink and short sleeve", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 320, "split": "test", "instruction_reference": "i need a conditioner for damaged hair", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 321, "split": "test", "instruction_reference": "i want a high quality nail drill machine", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 322, "split": "test", "instruction_reference": "i want to find a gold floor lamp with a glass shade and a nickel finish that i can use for my living room", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 323, "split": "test", "instruction_reference": "i am looking for delicious flavor starkist chicken creations, chicken salad, 2.6 oz pouch,pack of 12  which is  soy free and gluten free easy to prepare, perfect fit for today’s active lifestyle. buffalo style flavor preferable", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 324, "split": "test", "instruction_reference": "i need some aaa batteries", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 325, "split": "test", "instruction_reference": "i want to find a pink front-button bra in a size 44 that is made of quality polyester", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 326, "split": "test", "instruction_reference": "i am looking for eco friendly candle wax. please choose vanilla lavender", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 327, "split": "test", "instruction_reference": "i need green cactus coasters for the living room that come in a pack of four", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 328, "split": "test", "instruction_reference": "i need to buy a loveseat for my living room. get one thats flat packed with a wood finish", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 329, "split": "test", "instruction_reference": "i am looking for plant based,gluten free and sugar free seedbars.please choose mulberry cacao flavour", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 330, "split": "test", "instruction_reference": "i am looking for fluoride free toothpaste that is made with coconut oil", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 331, "split": "test", "instruction_reference": "i am looking for hands free and dark blue bluetooth stereo wireless music earphones headset", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 332, "split": "test", "instruction_reference": "i would like a fluoride free mouth wash made with natural ingredients", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 333, "split": "test", "instruction_reference": "i want low carb chipmonk keto lemon poppyseed cookies", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 334, "split": "test", "instruction_reference": "i would like a 15 ounce package of blue stork its a boy gift chocolate covered cookies", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 335, "split": "test", "instruction_reference": "i need an old fashioned rope sausage without gluten", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 336, "split": "test", "instruction_reference": "i need a yellow xx-large floral print tank sleeveless dress that is quick drying", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 337, "split": "test", "instruction_reference": "i want to find a high-resolution digital camera with an optical zoom feature", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 338, "split": "test", "instruction_reference": "i would like some sugar free salted caramel truffles", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 339, "split": "test", "instruction_reference": "i am looking for black twin size bunk beds", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 340, "split": "test", "instruction_reference": "i would like a 20 foot long 4 pack of gold plated hdmi male to male cables", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 341, "split": "test", "instruction_reference": "im interested in purchasing a black colored easy to apply bun maker", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 342, "split": "test", "instruction_reference": "chair with adjustable height, backrest and lumbar support", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 343, "split": "test", "instruction_reference": "get me a hand washable short sleeved loose fit top in army green color and 3x-large size", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 344, "split": "test", "instruction_reference": "i want to get cartoon themed cupcake toppers that i can use for a birthday party", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 345, "split": "test", "instruction_reference": "i am looking for a high performance 18 volt charger adapter for beats by dr dre", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 346, "split": "test", "instruction_reference": "i am looking for a milk chocolate of 1 pound size in a single pack for valentine day", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 347, "split": "test", "instruction_reference": "i want gray high speed philips usb type c cables", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 348, "split": "test", "instruction_reference": "id like to find a king-sized faux lather platform bed in the camel color", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 349, "split": "test", "instruction_reference": "i am looking for 2 piece long sleeve blue#b color swimwear for women. also x-large one", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 350, "split": "test", "instruction_reference": "show me some long lasting honeysuckle jasmine colored candles made from soy wax", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 351, "split": "test", "instruction_reference": "i am looking for long sleeve men t-shirt.and please also choose the black one", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 352, "split": "test", "instruction_reference": "i am looking for yellow color stool cover. it should be washable in machine", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 353, "split": "test", "instruction_reference": "find a water resistant leather jacket", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 354, "split": "test", "instruction_reference": "i need some cupcake toppers for a birthday party. get the ones with silver glitter", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 355, "split": "test", "instruction_reference": "i am looking for slim jeans that are granite color and machine washable", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 356, "split": "test", "instruction_reference": "i am looking for a medium adult sized unisex hoodie which is machine washable. pick the navy blue one", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 357, "split": "test", "instruction_reference": "i like  traditional , old  and individually wrapped alberts chocolate ice cubes 60 count tray chocolate", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 358, "split": "test", "instruction_reference": "i want tangerine colored crocs made with vinyl acetate for kids", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 359, "split": "test", "instruction_reference": "i would like a medium sized dress with a elastic waist", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 360, "split": "test", "instruction_reference": "i am looking for small undershirts that i can machine wash", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 361, "split": "test", "instruction_reference": "im looking for a color b quick release thumb screw tripod", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 362, "split": "test", "instruction_reference": "i am looking for a a2442(pro 14 2021 m1 pro | max touch id)  size of hard shell cases over", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 363, "split": "test", "instruction_reference": "i am interested in buying a blue colored noise cancelling headphones with wireless bluetooth available", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 364, "split": "test", "instruction_reference": "i need a valentines day gift", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 365, "split": "test", "instruction_reference": "i want to purchase from mens clothing a pair of mens retro jeans with the relaxed fit and boot cut. needs to be long lasting, comfortable fitting and in a relaxed fit. must be a size 35 waist and 36 long in rockdale color", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 366, "split": "test", "instruction_reference": "i want to get some red cupcake toppers that i can use for a birthday party", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 367, "split": "test", "instruction_reference": "im hoping to find a purple, xx-large batman shirt thats officially licensed", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 368, "split": "test", "instruction_reference": "im looking for a 150 foot plug play hdmi cable", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 369, "split": "test", "instruction_reference": "i am looking for a high quality hair removal wax bottle", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 370, "split": "test", "instruction_reference": "i am looking for 5.9 fl oz eau de parfum - fragrance mist for women", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 371, "split": "test", "instruction_reference": "looking for babydoll mini bodysuit of quality polyester choose size xx large", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 372, "split": "test", "instruction_reference": "i want to find a heavy duty bar stool that is rein bay colored", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 373, "split": "test", "instruction_reference": "i need a natural teeth whitening toothpaste", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 374, "split": "test", "instruction_reference": "i need a solid wood platform bed with wooden frame. pick something that is natural in color", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 375, "split": "test", "instruction_reference": "i want an easy to use tongue cleaner for eliminating bad breath", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 376, "split": "test", "instruction_reference": "i am looking for a wireless bluetooth earpads", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 377, "split": "test", "instruction_reference": "i am looking for high knee womens flat sandals of size 8", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 378, "split": "test", "instruction_reference": "i want to find organic, low fat applesauce that is apple strawberry flavored. it should come in 4 ounce cups in a pack of 4", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 379, "split": "test", "instruction_reference": "i want a clear glass mystic sand colored wall sconce. it will go in my living room", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 380, "split": "test", "instruction_reference": "i am looking for flower fairy giel with pink wing elves pillow cover for living room", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 381, "split": "test", "instruction_reference": "i want to get to get long lasting foundation that is in color 380 rich ginger", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 382, "split": "test", "instruction_reference": "i would like to buy a bronze table lamp for my living room", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 383, "split": "test", "instruction_reference": "im looking for bathing free accessories for fragrance free", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 384, "split": "test", "instruction_reference": "i am looking for monoculars that are for bird watching", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 385, "split": "test", "instruction_reference": "i would like a pair of black size 8.5 boots with a comfortable fit", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 386, "split": "test", "instruction_reference": "im looking for a tempered glass coffee table for my living room that has a wooden frame", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 387, "split": "test", "instruction_reference": "im looking for a router for i5 inter core processor. also, choose 8g ram, 128g ssd and 1td hdd with intel i3 3220, r9 b75 one", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 388, "split": "test", "instruction_reference": "im looking for native american indian dream catcher feathers talisman", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 389, "split": "test", "instruction_reference": "i am looking for large size soft material womens cardigans with pockets", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 390, "split": "test", "instruction_reference": "i am looking for kernel seasons popcorn season in 2.85 ounce packs of 6", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 391, "split": "test", "instruction_reference": "i would like a lead free bracelet birthday cake jar candle", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 392, "split": "test", "instruction_reference": "i need some steel toed shoes that are chocolate colored and are a size 7", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 393, "split": "test", "instruction_reference": "i am looking for a pair of womens size 6.5 to 7 open toe sandals", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 394, "split": "test", "instruction_reference": "i am looking for a cat with ears cupcake toppers for a baby shower", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 395, "split": "test", "instruction_reference": "i am looking for white solid wood bunk beds with drawers", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 396, "split": "test", "instruction_reference": "buy a one pack of permanent hair dye in espresso", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 397, "split": "test", "instruction_reference": "i want a bagel made from high quality ingredients", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 398, "split": "test", "instruction_reference": "im looking for strong box spring beds and i take dark gray color with king size beds", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 399, "split": "test", "instruction_reference": "i want to find individually wrapped, 2-ounce packs of omega-3 mix in a 14-count box", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 400, "split": "test", "instruction_reference": "i am ordering grey  women faux fur slippers ", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 401, "split": "test", "instruction_reference": "i would like a pair of c clippers for hair cutting", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 402, "split": "test", "instruction_reference": "i need a vanity light with a classic bronze finish", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 403, "split": "test", "instruction_reference": "im looking for a black phone case that is apple compatible with a black screen", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 404, "split": "test", "instruction_reference": "i need a 1.0mm braces brush that is easy to clean", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 405, "split": "test", "instruction_reference": "i am looking for some gluten free yellow dog sweet shake flavored gourmet spice blends", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 406, "split": "test", "instruction_reference": "im looking for a long lasting 3.3 oz edt spray for men", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 407, "split": "test", "instruction_reference": "im looking for certified  organic for tea bags for peppermint leaf", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 408, "split": "test", "instruction_reference": "im looking for a hair roller for hair styling, it should be easy to use. also, choose 2.8 *2 inch pink colored one", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 409, "split": "test", "instruction_reference": "i am looking for some machine washable curtains in the side 52 by 63", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 410, "split": "test", "instruction_reference": "im looking for need to buy a cookie butter and it was gluten free and it contains high protein", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 411, "split": "test", "instruction_reference": "am looking for low rise lam kwongy sexy yoga shorts for women, blue color", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 412, "split": "test", "instruction_reference": "i am looking for a black iphone 12 max case with wireless charging", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 413, "split": "test", "instruction_reference": "i am interested in a grey solid wood nightstand", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 414, "split": "test", "instruction_reference": "i will like to have a synthetic sole, memory foam cc corso como womens denice, size 5.5 and tan color", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 415, "split": "test", "instruction_reference": "i would like to get two assorted non-gmo powdered cheeses", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 416, "split": "test", "instruction_reference": "i am looking for a super soft throw blanket that is at least 50 by 60 inches in size", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 417, "split": "test", "instruction_reference": "i need some storage space that is white and grey and also tall", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 418, "split": "test", "instruction_reference": "i am looking for hair dye for permanent hair and choose 4 dark brown color in size 1 count pack of 3", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 419, "split": "test", "instruction_reference": "i need a jet black hair piece for hair loss", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 420, "split": "test", "instruction_reference": "i want to buy an x-large tall, long sleeve flannel shirt that is sea cliff blue plaid", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 421, "split": "test", "instruction_reference": "i need some fully cooked canned meats with a long shelf life", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 422, "split": "test", "instruction_reference": "i am looking for contemporary design privacy protected panel for living room, its size should be 52 wide by 90 length", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 423, "split": "test", "instruction_reference": "i would like a 25.4 fluid ounce bottle of chocolate syrup made with non gmo organic candy cane mint", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 424, "split": "test", "instruction_reference": "i am looking for synthetic black gray 101 color hair extensions wig hairpiece", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 425, "split": "test", "instruction_reference": "i would like a high speed streaming media player that is easy to use", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 426, "split": "test", "instruction_reference": "i would like a 14 ounce bag of roasted almonds and other nuts that are gluten free", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 427, "split": "test", "instruction_reference": "i would like some blue non toxic bath brushes", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 428, "split": "test", "instruction_reference": "i am looking for ataiwee womens wide width ballet flats which is well made of soft leather, flexible tpr out-sole, lightweight and comfortable. tan 1905019-5, 9 wide size preferable", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 429, "split": "test", "instruction_reference": "i want to find 5.3 ounces of plant-based organic hair dye in a dark chocolate color", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 430, "split": "test", "instruction_reference": "i am looking for 10 pounds of fine grain non gmo sea salt", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 431, "split": "test", "instruction_reference": "i need a protective ac output cable cord", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 432, "split": "test", "instruction_reference": "i need a black wireless bluetooth speaker", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 433, "split": "test", "instruction_reference": "i am looking for a 3x-large long sleeved sweatshirt that is hooded for everyday wear", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 434, "split": "test", "instruction_reference": "im looking for some mid-century style grey chairs", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 435, "split": "test", "instruction_reference": "id like to find a 1-pack of hdmi and dp cables that are three feet long. they need to have gold plating", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 436, "split": "test", "instruction_reference": "i want to find a pair of white and thyme mens blaster pants with an elastic waistband. the size needs to be 5x-large", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 437, "split": "test", "instruction_reference": "i am looking for a gluten free non gmo fig bar packet of 7. and i choose the variety pack", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 438, "split": "test", "instruction_reference": "i want a solid wood table in dark cognac brown color for my living room", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 439, "split": "test", "instruction_reference": "i am looking for an easy to install computer table for my living room", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 440, "split": "test", "instruction_reference": "im looking for a quick-release replacement fitness strap band; it should match my chic teal fitbit", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 441, "split": "test", "instruction_reference": "i am looking for mickey and minnie cupcake toppers for a birthday party", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 442, "split": "test", "instruction_reference": "i need low rise jeans that are a 54w by 34l", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 443, "split": "test", "instruction_reference": "im looking for a high protein meat jerky which should be free from gluten, soy and dairy products", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 444, "split": "test", "instruction_reference": "i am looking for 150ft trishield rg11 aerial messenger - black type coaxial cable aluminum alloy", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 445, "split": "test", "instruction_reference": "im looking for an xx-large plus elastic closure pants for women. the color can be steel", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 446, "split": "test", "instruction_reference": "i am looking for 140 feet of high speed coaxial cable", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 447, "split": "test", "instruction_reference": "im looking for gluten free it was contain high protein and need to buy it", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 448, "split": "test", "instruction_reference": "i need a non gmo salad topper with glazed pecans", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 449, "split": "test", "instruction_reference": "entatial aluminum alloy ball head, camera tripod ball head. find and let me know", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 450, "split": "test", "instruction_reference": "i am looking for a printed backdrop 07 colored lightweight backgrounds for digital photography. also, choose a  5x7 ft size", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 451, "split": "test", "instruction_reference": "i need a deodorant anti perspirant in travel size for women", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 452, "split": "test", "instruction_reference": "i want a tempered glass screen protector that i can use for my iphone se", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 453, "split": "test", "instruction_reference": "i am looking for a mouth guard that is pink and non toxic", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 454, "split": "test", "instruction_reference": "mens  eau de parfum long lasting for daily use", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 455, "split": "test", "instruction_reference": "i need to find a box of trader joe seed crackers that support my gluten-free diet", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 456, "split": "test", "instruction_reference": "in the last order i bought the sauce from the brand orgânicville organic, caesar sauce, the taste is very good .no dairy, 8 fz i want to repeat this order ", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 457, "split": "test", "instruction_reference": "i would like to buy a cupcake topper which has a laser gold pattern and is suitable for birthday parties", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 458, "split": "test", "instruction_reference": "im looking for long-lasting anti-perspirant that is unscented", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 459, "split": "test", "instruction_reference": "i am interested in buying a toothbrush that is easy to carry and useful for sensitive teeth", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 460, "split": "test", "instruction_reference": "i am looking for black leather sole fashion sneakers that are in a size 5", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 461, "split": "test", "instruction_reference": "i am looking for some flats with memory foam in a size nine and the color picante", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 462, "split": "test", "instruction_reference": "i am looking for a mini mak spotting scope smart phone adapter that is easy to use and comes with a carrying case", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 463, "split": "test", "instruction_reference": "i need to buy a smartwatch band for my apple watch. look for one in rose gold stainless steel mesh", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 464, "split": "test", "instruction_reference": "i am looking for a hair growth treatment in the color 3pc", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 465, "split": "test", "instruction_reference": "i need grey memory foam slippers with open toes", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 466, "split": "test", "instruction_reference": "im looking for a two piece swimsuit in polyester spandex. i want the black one in x-large", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 467, "split": "test", "instruction_reference": "i want to buy ballet shoes which have rubber sole in grey suede color and a size of 6", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 468, "split": "test", "instruction_reference": "i would like a standing shelf unit for my living room", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 469, "split": "test", "instruction_reference": "i would like some black and golden jewlery for daily wear", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 470, "split": "test", "instruction_reference": "i want a hdmi cable with high speed and 1.5 feet size", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 471, "split": "test", "instruction_reference": "i mostly like designed house with grey color", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 472, "split": "test", "instruction_reference": "i just love the matilde vicenzi brand macaroons and i want to try the amaretto ditalia macaroons flavor. the quality of the ingredients is my requirement, if you find it let me know", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 473, "split": "test", "instruction_reference": "i am looking for wild caught, ready to eat sardines in a tomato sauce", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 474, "split": "test", "instruction_reference": "buy me a cruelty free solid perfume with a flirt scent", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 475, "split": "test", "instruction_reference": "i am looking for navy color x-large womens long sleeve open front cardigan sweaters", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 476, "split": "test", "instruction_reference": "i want to find 24x24 inch dark blue decorative pillow covers that i can use in my living room", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 477, "split": "test", "instruction_reference": "i want a super soft fleece thrown for living for room size 50*40", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 478, "split": "test", "instruction_reference": "i would like a stained glass wall lamp with a bronze finish", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 479, "split": "test", "instruction_reference": "i need womens denim shorts in cotton spandex material with color jayne and size 9", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 480, "split": "test", "instruction_reference": "i would like to buy a three pack of fine combs good for styling dry hair", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 481, "split": "test", "instruction_reference": "im looking for a 6 foot long, high performance coaxial cable", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 482, "split": "test", "instruction_reference": "i need 16.5 inch dining room chair pads", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 483, "split": "test", "instruction_reference": "get me a sixteen pack of apple cinnamon freeze dried banana chips", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 484, "split": "test", "instruction_reference": "im looking for a small black t-shirt for women with alpaca design and manchine wash", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 485, "split": "test", "instruction_reference": "i am looking for a mesh laundry bag", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 486, "split": "test", "instruction_reference": "i would like a deep brown clog with a rubber sole for my size 8 foot", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 487, "split": "test", "instruction_reference": "i am looking for a long handled body brush", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 488, "split": "test", "instruction_reference": "i would like to buy a white colored easy to assemble book case for my living room", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 489, "split": "test", "instruction_reference": "im looking for a high quality accessory bundle for my canon camera; speed and performance is essential", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 490, "split": "test", "instruction_reference": "i am looking for a wallet case with tempered glass protection. please select the rose gold color", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 491, "split": "test", "instruction_reference": "i am looking for a 5 pack of fully cooked and easy to prepare chicken breast strips", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 492, "split": "test", "instruction_reference": "i want a king size twin bed with storage compartments", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 493, "split": "test", "instruction_reference": "im looking for cellphone accessories for wireless charging", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 494, "split": "test", "instruction_reference": "i am looking for light weight a34 color photo background", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 495, "split": "test", "instruction_reference": "i need roasted coffee beans that are dairy free and cinnamon bun flavored", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 496, "split": "test", "instruction_reference": "i need brown eco friendly nikahoo small storage baskets", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 497, "split": "test", "instruction_reference": "i am looking for ultra hd motion detection surveillance dome camera color black size :6mp wdr 2.8 mm", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 498, "split": "test", "instruction_reference": "im looking for a universal remote control with batteries included", "sft_id_overlap": false, "sft_text_overlap": false}
+{"task_id": 499, "split": "test", "instruction_reference": "im looking for 33.81 fl oz non-gmo gluten free monin raspberry syrup", "sft_id_overlap": false, "sft_text_overlap": false}

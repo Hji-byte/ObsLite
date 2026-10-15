@@ -1,0 +1,23 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv*/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.safetensors
+*.pt
+*.bin
+*.zip
+*.tar*
+_local/
+external/
+runs/
+models/
+checkpoints/
+*.log
+
+# Personal preparation archive: never publish
+/_local/private_archive/

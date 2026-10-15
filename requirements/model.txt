@@ -1,0 +1,30 @@
+# Linux / Python 3.12: model generation, RL updates and evaluation.
+# Direct dependency pins from the recorded RL runtime; FLA pin from preflight_rl_fast.py.
+# Fresh installation and GPU execution have not been validated; see README.md.
+torch==2.13.0
+transformers==5.15.0
+vllm==0.27.1
+triton==3.7.1
+peft==0.20.0
+accelerate==1.14.0
+ray==2.58.0
+tensordict==0.6.2
+numpy==2.3.5
+datasets==5.0.1
+pandas==3.0.5
+pyarrow==25.0.1
+hydra-core==1.3.6
+omegaconf==2.3.1
+einops==0.8.2
+safetensors==0.8.0
+tokenizers==0.22.2
+sentencepiece==0.2.2
+codetiming==1.4.0
+dill==0.4.1
+wandb==0.30.0
+requests==2.34.2
+PyYAML==6.0.3
+packaging==26.3
+gymnasium==1.3.0
+torchdata==0.11.0
+fla-core==0.5.2

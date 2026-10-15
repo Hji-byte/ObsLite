@@ -1,0 +1,33 @@
+# Linux x86_64 / Python 3.12: isolated WebShop simulator.
+# Recorded environment: torch 2.8.0+cu128, numpy 1.26.4, transformers 4.35.2.
+# requests has a range because the historical freeze only recorded a local build path.
+# The recorded spaCy model 3.6.0 + spaCy 3.7.5 may emit a compatibility warning;
+# preserve it for reward-parity checks rather than silently upgrading the model.
+torch @ https://download.pytorch.org/whl/cu128/torch-2.8.0%2Bcu128-cp312-cp312-manylinux_2_28_x86_64.whl#sha256=4354fc05bb79b208d6995a04ca1ceef6a9547b1c4334435574353d381c55087c
+torchvision @ https://download.pytorch.org/whl/cu128/torchvision-0.23.0%2Bcu128-cp312-cp312-manylinux_2_28_x86_64.whl#sha256=9cb3c13997afcb44057ca10d943c6c4cba3068afde0f370965abce9c89fcffa9
+numpy==1.26.4
+transformers==4.35.2
+gym==0.24.0
+ijson==3.5.1
+scipy==1.11.4
+beautifulsoup4==4.11.1
+cleantext==1.1.4
+faiss-cpu==1.8.0
+Flask==2.2.5
+Werkzeug==2.3.8
+pyserini==0.17.0
+rank-bm25==0.2.2
+scikit-learn==1.3.2
+selenium==4.2.0
+spacy==3.7.5
+thinc==8.2.5
+thefuzz==0.20.0
+RapidFuzz==3.14.5
+rich==13.9.4
+python-dotenv==1.2.3
+PyYAML==6.0.2
+requests>=2.31,<3
+https://github.com/explosion/spacy-models/releases/download/en_core_web_lg-3.6.0/en_core_web_lg-3.6.0-py3-none-any.whl
+
+# Download the official WebShop asset archives during setup.
+gdown==5.2.0
