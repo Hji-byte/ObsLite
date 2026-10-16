@@ -18,6 +18,7 @@ ObsLite achieves the highest success rate and mean reward, improving success fro
 
 | Method | Success rate | Mean reward | Mean interactions | Avg. total tokens |
 | --- | ---: | ---: | ---: | ---: |
+| Qwen3.5-0.8B | 7.8% | 0.13218 | 16.578 | 139,606 |
 | SFT, full history | 35.8% | 0.58315 | 8.172 | 47,791 |
 | SFT + ObsLite | **38.2%** | **0.60425** | **7.830** | 28,155 |
 | SFT, two-step O/A window | 29.8% | 0.48698 | 10.210 | **17,443** |

@@ -1,0 +1,4015 @@
+{
+  "model": "Qwen3.5-0.8B",
+  "task_specific_training": null,
+  "in_context_example": true,
+  "summary": {
+    "completed_tasks": 500,
+    "successes": 39,
+    "success_rate": 0.078,
+    "mean_reward": 0.13218333333333335,
+    "mean_steps": 16.578,
+    "mean_total_tokens": 139606.292
+  },
+  "episode_metrics": [
+    {
+      "task_id": 0,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 90054,
+      "completion_tokens": 830
+    },
+    {
+      "task_id": 1,
+      "status": "completed",
+      "reward": 1.0,
+      "steps": 3,
+      "prompt_tokens": 9663,
+      "completion_tokens": 136
+    },
+    {
+      "task_id": 2,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 2,
+      "prompt_tokens": 6087,
+      "completion_tokens": 1072
+    },
+    {
+      "task_id": 3,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 2,
+      "prompt_tokens": 6056,
+      "completion_tokens": 1061
+    },
+    {
+      "task_id": 4,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 246922,
+      "completion_tokens": 1378
+    },
+    {
+      "task_id": 5,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 185467,
+      "completion_tokens": 1574
+    },
+    {
+      "task_id": 6,
+      "status": "completed",
+      "reward": 1.0,
+      "steps": 5,
+      "prompt_tokens": 19377,
+      "completion_tokens": 301
+    },
+    {
+      "task_id": 7,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 120383,
+      "completion_tokens": 1027
+    },
+    {
+      "task_id": 8,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 179244,
+      "completion_tokens": 1301
+    },
+    {
+      "task_id": 9,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 130795,
+      "completion_tokens": 1142
+    },
+    {
+      "task_id": 10,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 188303,
+      "completion_tokens": 4747
+    },
+    {
+      "task_id": 11,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 153331,
+      "completion_tokens": 1724
+    },
+    {
+      "task_id": 12,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 215725,
+      "completion_tokens": 1163
+    },
+    {
+      "task_id": 13,
+      "status": "completed",
+      "reward": 1.0,
+      "steps": 5,
+      "prompt_tokens": 17624,
+      "completion_tokens": 475
+    },
+    {
+      "task_id": 14,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 109593,
+      "completion_tokens": 1873
+    },
+    {
+      "task_id": 15,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 212085,
+      "completion_tokens": 1004
+    },
+    {
+      "task_id": 16,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 157207,
+      "completion_tokens": 1835
+    },
+    {
+      "task_id": 17,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 152726,
+      "completion_tokens": 1577
+    },
+    {
+      "task_id": 18,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 95417,
+      "completion_tokens": 1688
+    },
+    {
+      "task_id": 19,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 96681,
+      "completion_tokens": 1500
+    },
+    {
+      "task_id": 20,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 95001,
+      "completion_tokens": 879
+    },
+    {
+      "task_id": 21,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 188227,
+      "completion_tokens": 1443
+    },
+    {
+      "task_id": 22,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 141553,
+      "completion_tokens": 1484
+    },
+    {
+      "task_id": 23,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 233766,
+      "completion_tokens": 1553
+    },
+    {
+      "task_id": 24,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 160099,
+      "completion_tokens": 1663
+    },
+    {
+      "task_id": 25,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 104972,
+      "completion_tokens": 1602
+    },
+    {
+      "task_id": 26,
+      "status": "completed",
+      "reward": 1.0,
+      "steps": 6,
+      "prompt_tokens": 25498,
+      "completion_tokens": 543
+    },
+    {
+      "task_id": 27,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 133907,
+      "completion_tokens": 1452
+    },
+    {
+      "task_id": 28,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 209734,
+      "completion_tokens": 877
+    },
+    {
+      "task_id": 29,
+      "status": "completed",
+      "reward": 1.0,
+      "steps": 3,
+      "prompt_tokens": 9750,
+      "completion_tokens": 194
+    },
+    {
+      "task_id": 30,
+      "status": "completed",
+      "reward": 0.1,
+      "steps": 3,
+      "prompt_tokens": 9578,
+      "completion_tokens": 156
+    },
+    {
+      "task_id": 31,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 232723,
+      "completion_tokens": 1155
+    },
+    {
+      "task_id": 32,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 261808,
+      "completion_tokens": 5702
+    },
+    {
+      "task_id": 33,
+      "status": "completed",
+      "reward": 1.0,
+      "steps": 4,
+      "prompt_tokens": 13893,
+      "completion_tokens": 292
+    },
+    {
+      "task_id": 34,
+      "status": "completed",
+      "reward": 0.1,
+      "steps": 3,
+      "prompt_tokens": 9392,
+      "completion_tokens": 203
+    },
+    {
+      "task_id": 35,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 199478,
+      "completion_tokens": 2522
+    },
+    {
+      "task_id": 36,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 198424,
+      "completion_tokens": 1150
+    },
+    {
+      "task_id": 37,
+      "status": "completed",
+      "reward": 1.0,
+      "steps": 3,
+      "prompt_tokens": 9744,
+      "completion_tokens": 207
+    },
+    {
+      "task_id": 38,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 211677,
+      "completion_tokens": 983
+    },
+    {
+      "task_id": 39,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 185200,
+      "completion_tokens": 1070
+    },
+    {
+      "task_id": 40,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 187019,
+      "completion_tokens": 921
+    },
+    {
+      "task_id": 41,
+      "status": "completed",
+      "reward": 0.75,
+      "steps": 3,
+      "prompt_tokens": 9630,
+      "completion_tokens": 158
+    },
+    {
+      "task_id": 42,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 3,
+      "prompt_tokens": 9727,
+      "completion_tokens": 418
+    },
+    {
+      "task_id": 43,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 193797,
+      "completion_tokens": 1331
+    },
+    {
+      "task_id": 44,
+      "status": "completed",
+      "reward": 0.6666666666666666,
+      "steps": 4,
+      "prompt_tokens": 13744,
+      "completion_tokens": 240
+    },
+    {
+      "task_id": 45,
+      "status": "completed",
+      "reward": 1.0,
+      "steps": 3,
+      "prompt_tokens": 9681,
+      "completion_tokens": 209
+    },
+    {
+      "task_id": 46,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 212592,
+      "completion_tokens": 1685
+    },
+    {
+      "task_id": 47,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 188566,
+      "completion_tokens": 1243
+    },
+    {
+      "task_id": 48,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 230732,
+      "completion_tokens": 1484
+    },
+    {
+      "task_id": 49,
+      "status": "completed",
+      "reward": 0.1,
+      "steps": 3,
+      "prompt_tokens": 9374,
+      "completion_tokens": 355
+    },
+    {
+      "task_id": 50,
+      "status": "completed",
+      "reward": 0.5,
+      "steps": 3,
+      "prompt_tokens": 9533,
+      "completion_tokens": 190
+    },
+    {
+      "task_id": 51,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 215787,
+      "completion_tokens": 1740
+    },
+    {
+      "task_id": 52,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 274724,
+      "completion_tokens": 7501
+    },
+    {
+      "task_id": 53,
+      "status": "completed",
+      "reward": 1.0,
+      "steps": 4,
+      "prompt_tokens": 14389,
+      "completion_tokens": 317
+    },
+    {
+      "task_id": 54,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 201192,
+      "completion_tokens": 1413
+    },
+    {
+      "task_id": 55,
+      "status": "completed",
+      "reward": 0.6666666666666666,
+      "steps": 3,
+      "prompt_tokens": 9791,
+      "completion_tokens": 363
+    },
+    {
+      "task_id": 56,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 191195,
+      "completion_tokens": 1265
+    },
+    {
+      "task_id": 57,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 122087,
+      "completion_tokens": 1245
+    },
+    {
+      "task_id": 58,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 192614,
+      "completion_tokens": 1943
+    },
+    {
+      "task_id": 59,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 173261,
+      "completion_tokens": 1565
+    },
+    {
+      "task_id": 60,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 219297,
+      "completion_tokens": 1583
+    },
+    {
+      "task_id": 61,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 200933,
+      "completion_tokens": 1017
+    },
+    {
+      "task_id": 62,
+      "status": "completed",
+      "reward": 0.6666666666666666,
+      "steps": 3,
+      "prompt_tokens": 10578,
+      "completion_tokens": 313
+    },
+    {
+      "task_id": 63,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 123873,
+      "completion_tokens": 1489
+    },
+    {
+      "task_id": 64,
+      "status": "completed",
+      "reward": 1.0,
+      "steps": 3,
+      "prompt_tokens": 9763,
+      "completion_tokens": 224
+    },
+    {
+      "task_id": 65,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 215479,
+      "completion_tokens": 1141
+    },
+    {
+      "task_id": 66,
+      "status": "completed",
+      "reward": 0.1,
+      "steps": 3,
+      "prompt_tokens": 9620,
+      "completion_tokens": 145
+    },
+    {
+      "task_id": 67,
+      "status": "completed",
+      "reward": 0.6666666666666666,
+      "steps": 5,
+      "prompt_tokens": 17888,
+      "completion_tokens": 279
+    },
+    {
+      "task_id": 68,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 224579,
+      "completion_tokens": 5042
+    },
+    {
+      "task_id": 69,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 219506,
+      "completion_tokens": 1951
+    },
+    {
+      "task_id": 70,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 200077,
+      "completion_tokens": 1063
+    },
+    {
+      "task_id": 71,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 90187,
+      "completion_tokens": 1338
+    },
+    {
+      "task_id": 72,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 165078,
+      "completion_tokens": 1968
+    },
+    {
+      "task_id": 73,
+      "status": "completed",
+      "reward": 0.6666666666666666,
+      "steps": 3,
+      "prompt_tokens": 9682,
+      "completion_tokens": 243
+    },
+    {
+      "task_id": 74,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 143943,
+      "completion_tokens": 1266
+    },
+    {
+      "task_id": 75,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 182470,
+      "completion_tokens": 1545
+    },
+    {
+      "task_id": 76,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 150712,
+      "completion_tokens": 2017
+    },
+    {
+      "task_id": 77,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 131510,
+      "completion_tokens": 1431
+    },
+    {
+      "task_id": 78,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 197195,
+      "completion_tokens": 1136
+    },
+    {
+      "task_id": 79,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 205352,
+      "completion_tokens": 998
+    },
+    {
+      "task_id": 80,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 157254,
+      "completion_tokens": 1551
+    },
+    {
+      "task_id": 81,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 103388,
+      "completion_tokens": 1294
+    },
+    {
+      "task_id": 82,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 273360,
+      "completion_tokens": 6345
+    },
+    {
+      "task_id": 83,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 191475,
+      "completion_tokens": 1061
+    },
+    {
+      "task_id": 84,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 221562,
+      "completion_tokens": 2425
+    },
+    {
+      "task_id": 85,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 136122,
+      "completion_tokens": 1073
+    },
+    {
+      "task_id": 86,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 154412,
+      "completion_tokens": 1757
+    },
+    {
+      "task_id": 87,
+      "status": "completed",
+      "reward": 0.6666666666666666,
+      "steps": 4,
+      "prompt_tokens": 15249,
+      "completion_tokens": 260
+    },
+    {
+      "task_id": 88,
+      "status": "completed",
+      "reward": 0.3333333333333333,
+      "steps": 3,
+      "prompt_tokens": 9560,
+      "completion_tokens": 227
+    },
+    {
+      "task_id": 89,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 203708,
+      "completion_tokens": 1252
+    },
+    {
+      "task_id": 90,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 259609,
+      "completion_tokens": 5996
+    },
+    {
+      "task_id": 91,
+      "status": "completed",
+      "reward": 1.0,
+      "steps": 4,
+      "prompt_tokens": 14145,
+      "completion_tokens": 256
+    },
+    {
+      "task_id": 92,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 209320,
+      "completion_tokens": 760
+    },
+    {
+      "task_id": 93,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 214499,
+      "completion_tokens": 1101
+    },
+    {
+      "task_id": 94,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 195462,
+      "completion_tokens": 1058
+    },
+    {
+      "task_id": 95,
+      "status": "completed",
+      "reward": 1.0,
+      "steps": 3,
+      "prompt_tokens": 9356,
+      "completion_tokens": 201
+    },
+    {
+      "task_id": 96,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 226844,
+      "completion_tokens": 1836
+    },
+    {
+      "task_id": 97,
+      "status": "completed",
+      "reward": 0.3333333333333333,
+      "steps": 3,
+      "prompt_tokens": 10049,
+      "completion_tokens": 262
+    },
+    {
+      "task_id": 98,
+      "status": "completed",
+      "reward": 1.0,
+      "steps": 3,
+      "prompt_tokens": 9680,
+      "completion_tokens": 152
+    },
+    {
+      "task_id": 99,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 156621,
+      "completion_tokens": 1758
+    },
+    {
+      "task_id": 100,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 126017,
+      "completion_tokens": 1344
+    },
+    {
+      "task_id": 101,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 108673,
+      "completion_tokens": 953
+    },
+    {
+      "task_id": 102,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 121357,
+      "completion_tokens": 802
+    },
+    {
+      "task_id": 103,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 279158,
+      "completion_tokens": 1182
+    },
+    {
+      "task_id": 104,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 192763,
+      "completion_tokens": 1328
+    },
+    {
+      "task_id": 105,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 176799,
+      "completion_tokens": 1353
+    },
+    {
+      "task_id": 106,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 135306,
+      "completion_tokens": 1542
+    },
+    {
+      "task_id": 107,
+      "status": "completed",
+      "reward": 0.75,
+      "steps": 5,
+      "prompt_tokens": 23061,
+      "completion_tokens": 907
+    },
+    {
+      "task_id": 108,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 85013,
+      "completion_tokens": 854
+    },
+    {
+      "task_id": 109,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 89731,
+      "completion_tokens": 1079
+    },
+    {
+      "task_id": 110,
+      "status": "completed",
+      "reward": 1.0,
+      "steps": 5,
+      "prompt_tokens": 18929,
+      "completion_tokens": 169
+    },
+    {
+      "task_id": 111,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 148164,
+      "completion_tokens": 2216
+    },
+    {
+      "task_id": 112,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 108458,
+      "completion_tokens": 1186
+    },
+    {
+      "task_id": 113,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 90784,
+      "completion_tokens": 935
+    },
+    {
+      "task_id": 114,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 222263,
+      "completion_tokens": 1017
+    },
+    {
+      "task_id": 115,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 208557,
+      "completion_tokens": 883
+    },
+    {
+      "task_id": 116,
+      "status": "completed",
+      "reward": 0.6666666666666666,
+      "steps": 3,
+      "prompt_tokens": 10759,
+      "completion_tokens": 550
+    },
+    {
+      "task_id": 117,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 131995,
+      "completion_tokens": 1322
+    },
+    {
+      "task_id": 118,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 87783,
+      "completion_tokens": 1130
+    },
+    {
+      "task_id": 119,
+      "status": "completed",
+      "reward": 1.0,
+      "steps": 3,
+      "prompt_tokens": 9799,
+      "completion_tokens": 221
+    },
+    {
+      "task_id": 120,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 154432,
+      "completion_tokens": 1380
+    },
+    {
+      "task_id": 121,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 223497,
+      "completion_tokens": 1103
+    },
+    {
+      "task_id": 122,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 92398,
+      "completion_tokens": 1212
+    },
+    {
+      "task_id": 123,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 160030,
+      "completion_tokens": 1597
+    },
+    {
+      "task_id": 124,
+      "status": "completed",
+      "reward": 0.75,
+      "steps": 4,
+      "prompt_tokens": 15346,
+      "completion_tokens": 396
+    },
+    {
+      "task_id": 125,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 142829,
+      "completion_tokens": 1494
+    },
+    {
+      "task_id": 126,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 3,
+      "prompt_tokens": 9332,
+      "completion_tokens": 174
+    },
+    {
+      "task_id": 127,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 222092,
+      "completion_tokens": 2056
+    },
+    {
+      "task_id": 128,
+      "status": "completed",
+      "reward": 1.0,
+      "steps": 4,
+      "prompt_tokens": 13997,
+      "completion_tokens": 290
+    },
+    {
+      "task_id": 129,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 195251,
+      "completion_tokens": 1189
+    },
+    {
+      "task_id": 130,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 189593,
+      "completion_tokens": 1327
+    },
+    {
+      "task_id": 131,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 210795,
+      "completion_tokens": 1829
+    },
+    {
+      "task_id": 132,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 142392,
+      "completion_tokens": 1601
+    },
+    {
+      "task_id": 133,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 84500,
+      "completion_tokens": 1089
+    },
+    {
+      "task_id": 134,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 247374,
+      "completion_tokens": 2068
+    },
+    {
+      "task_id": 135,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 199363,
+      "completion_tokens": 1437
+    },
+    {
+      "task_id": 136,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 196314,
+      "completion_tokens": 1327
+    },
+    {
+      "task_id": 137,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 163273,
+      "completion_tokens": 1030
+    },
+    {
+      "task_id": 138,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 145483,
+      "completion_tokens": 1056
+    },
+    {
+      "task_id": 139,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 148766,
+      "completion_tokens": 1519
+    },
+    {
+      "task_id": 140,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 120644,
+      "completion_tokens": 1490
+    },
+    {
+      "task_id": 141,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 101545,
+      "completion_tokens": 1076
+    },
+    {
+      "task_id": 142,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 2,
+      "prompt_tokens": 5996,
+      "completion_tokens": 1080
+    },
+    {
+      "task_id": 143,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 138957,
+      "completion_tokens": 1437
+    },
+    {
+      "task_id": 144,
+      "status": "completed",
+      "reward": 0.6666666666666666,
+      "steps": 3,
+      "prompt_tokens": 9569,
+      "completion_tokens": 286
+    },
+    {
+      "task_id": 145,
+      "status": "completed",
+      "reward": 0.6666666666666666,
+      "steps": 6,
+      "prompt_tokens": 23314,
+      "completion_tokens": 377
+    },
+    {
+      "task_id": 146,
+      "status": "completed",
+      "reward": 0.75,
+      "steps": 4,
+      "prompt_tokens": 15096,
+      "completion_tokens": 217
+    },
+    {
+      "task_id": 147,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 195374,
+      "completion_tokens": 966
+    },
+    {
+      "task_id": 148,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 205580,
+      "completion_tokens": 1929
+    },
+    {
+      "task_id": 149,
+      "status": "completed",
+      "reward": 0.6666666666666666,
+      "steps": 4,
+      "prompt_tokens": 14039,
+      "completion_tokens": 312
+    },
+    {
+      "task_id": 150,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 98795,
+      "completion_tokens": 893
+    },
+    {
+      "task_id": 151,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 268679,
+      "completion_tokens": 5361
+    },
+    {
+      "task_id": 152,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 183771,
+      "completion_tokens": 1089
+    },
+    {
+      "task_id": 153,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 166130,
+      "completion_tokens": 1804
+    },
+    {
+      "task_id": 154,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 203757,
+      "completion_tokens": 1361
+    },
+    {
+      "task_id": 155,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 261035,
+      "completion_tokens": 4835
+    },
+    {
+      "task_id": 156,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 90391,
+      "completion_tokens": 960
+    },
+    {
+      "task_id": 157,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 203027,
+      "completion_tokens": 1494
+    },
+    {
+      "task_id": 158,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 131178,
+      "completion_tokens": 1291
+    },
+    {
+      "task_id": 159,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 212649,
+      "completion_tokens": 1041
+    },
+    {
+      "task_id": 160,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 152387,
+      "completion_tokens": 1743
+    },
+    {
+      "task_id": 161,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 240542,
+      "completion_tokens": 1482
+    },
+    {
+      "task_id": 162,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 210630,
+      "completion_tokens": 1170
+    },
+    {
+      "task_id": 163,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 152666,
+      "completion_tokens": 777
+    },
+    {
+      "task_id": 164,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 109654,
+      "completion_tokens": 1048
+    },
+    {
+      "task_id": 165,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 221384,
+      "completion_tokens": 687
+    },
+    {
+      "task_id": 166,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 201352,
+      "completion_tokens": 1228
+    },
+    {
+      "task_id": 167,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 246471,
+      "completion_tokens": 5241
+    },
+    {
+      "task_id": 168,
+      "status": "completed",
+      "reward": 0.8,
+      "steps": 6,
+      "prompt_tokens": 22938,
+      "completion_tokens": 318
+    },
+    {
+      "task_id": 169,
+      "status": "completed",
+      "reward": 1.0,
+      "steps": 3,
+      "prompt_tokens": 9417,
+      "completion_tokens": 178
+    },
+    {
+      "task_id": 170,
+      "status": "completed",
+      "reward": 1.0,
+      "steps": 4,
+      "prompt_tokens": 15121,
+      "completion_tokens": 267
+    },
+    {
+      "task_id": 171,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 159235,
+      "completion_tokens": 1561
+    },
+    {
+      "task_id": 172,
+      "status": "completed",
+      "reward": 1.0,
+      "steps": 5,
+      "prompt_tokens": 19401,
+      "completion_tokens": 553
+    },
+    {
+      "task_id": 173,
+      "status": "completed",
+      "reward": 1.0,
+      "steps": 3,
+      "prompt_tokens": 10511,
+      "completion_tokens": 373
+    },
+    {
+      "task_id": 174,
+      "status": "completed",
+      "reward": 0.25,
+      "steps": 3,
+      "prompt_tokens": 10047,
+      "completion_tokens": 201
+    },
+    {
+      "task_id": 175,
+      "status": "completed",
+      "reward": 0.6666666666666666,
+      "steps": 3,
+      "prompt_tokens": 9513,
+      "completion_tokens": 202
+    },
+    {
+      "task_id": 176,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 225619,
+      "completion_tokens": 1161
+    },
+    {
+      "task_id": 177,
+      "status": "completed",
+      "reward": 0.75,
+      "steps": 4,
+      "prompt_tokens": 14435,
+      "completion_tokens": 273
+    },
+    {
+      "task_id": 178,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 246704,
+      "completion_tokens": 4686
+    },
+    {
+      "task_id": 179,
+      "status": "completed",
+      "reward": 1.0,
+      "steps": 3,
+      "prompt_tokens": 9434,
+      "completion_tokens": 192
+    },
+    {
+      "task_id": 180,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 100011,
+      "completion_tokens": 1127
+    },
+    {
+      "task_id": 181,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 193867,
+      "completion_tokens": 1033
+    },
+    {
+      "task_id": 182,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 191459,
+      "completion_tokens": 1503
+    },
+    {
+      "task_id": 183,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 217529,
+      "completion_tokens": 841
+    },
+    {
+      "task_id": 184,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 213174,
+      "completion_tokens": 1296
+    },
+    {
+      "task_id": 185,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 172092,
+      "completion_tokens": 5413
+    },
+    {
+      "task_id": 186,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 141647,
+      "completion_tokens": 1505
+    },
+    {
+      "task_id": 187,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 203848,
+      "completion_tokens": 1202
+    },
+    {
+      "task_id": 188,
+      "status": "completed",
+      "reward": 0.75,
+      "steps": 3,
+      "prompt_tokens": 9751,
+      "completion_tokens": 312
+    },
+    {
+      "task_id": 189,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 104010,
+      "completion_tokens": 1353
+    },
+    {
+      "task_id": 190,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 174345,
+      "completion_tokens": 994
+    },
+    {
+      "task_id": 191,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 174930,
+      "completion_tokens": 1068
+    },
+    {
+      "task_id": 192,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 215551,
+      "completion_tokens": 979
+    },
+    {
+      "task_id": 193,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 141723,
+      "completion_tokens": 1097
+    },
+    {
+      "task_id": 194,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 197263,
+      "completion_tokens": 977
+    },
+    {
+      "task_id": 195,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 212281,
+      "completion_tokens": 969
+    },
+    {
+      "task_id": 196,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 172079,
+      "completion_tokens": 2253
+    },
+    {
+      "task_id": 197,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 158663,
+      "completion_tokens": 2759
+    },
+    {
+      "task_id": 198,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 203045,
+      "completion_tokens": 1165
+    },
+    {
+      "task_id": 199,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 128156,
+      "completion_tokens": 1123
+    },
+    {
+      "task_id": 200,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 186457,
+      "completion_tokens": 1103
+    },
+    {
+      "task_id": 201,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 145403,
+      "completion_tokens": 1762
+    },
+    {
+      "task_id": 202,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 151520,
+      "completion_tokens": 1686
+    },
+    {
+      "task_id": 203,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 168526,
+      "completion_tokens": 1502
+    },
+    {
+      "task_id": 204,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 130253,
+      "completion_tokens": 1433
+    },
+    {
+      "task_id": 205,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 177602,
+      "completion_tokens": 1832
+    },
+    {
+      "task_id": 206,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 91788,
+      "completion_tokens": 1098
+    },
+    {
+      "task_id": 207,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 121099,
+      "completion_tokens": 869
+    },
+    {
+      "task_id": 208,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 114962,
+      "completion_tokens": 1192
+    },
+    {
+      "task_id": 209,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 194818,
+      "completion_tokens": 1371
+    },
+    {
+      "task_id": 210,
+      "status": "completed",
+      "reward": 0.6,
+      "steps": 3,
+      "prompt_tokens": 10399,
+      "completion_tokens": 494
+    },
+    {
+      "task_id": 211,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 139065,
+      "completion_tokens": 1173
+    },
+    {
+      "task_id": 212,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 113967,
+      "completion_tokens": 976
+    },
+    {
+      "task_id": 213,
+      "status": "completed",
+      "reward": 0.125,
+      "steps": 7,
+      "prompt_tokens": 28783,
+      "completion_tokens": 438
+    },
+    {
+      "task_id": 214,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 153988,
+      "completion_tokens": 1941
+    },
+    {
+      "task_id": 215,
+      "status": "completed",
+      "reward": 0.75,
+      "steps": 7,
+      "prompt_tokens": 28685,
+      "completion_tokens": 332
+    },
+    {
+      "task_id": 216,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 183800,
+      "completion_tokens": 1577
+    },
+    {
+      "task_id": 217,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 86448,
+      "completion_tokens": 842
+    },
+    {
+      "task_id": 218,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 184270,
+      "completion_tokens": 692
+    },
+    {
+      "task_id": 219,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 121537,
+      "completion_tokens": 944
+    },
+    {
+      "task_id": 220,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 198939,
+      "completion_tokens": 761
+    },
+    {
+      "task_id": 221,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 102601,
+      "completion_tokens": 1367
+    },
+    {
+      "task_id": 222,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 100442,
+      "completion_tokens": 1916
+    },
+    {
+      "task_id": 223,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 89909,
+      "completion_tokens": 1009
+    },
+    {
+      "task_id": 224,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 185706,
+      "completion_tokens": 1745
+    },
+    {
+      "task_id": 225,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 3,
+      "prompt_tokens": 10028,
+      "completion_tokens": 1418
+    },
+    {
+      "task_id": 226,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 121679,
+      "completion_tokens": 755
+    },
+    {
+      "task_id": 227,
+      "status": "completed",
+      "reward": 1.0,
+      "steps": 3,
+      "prompt_tokens": 9643,
+      "completion_tokens": 178
+    },
+    {
+      "task_id": 228,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 155398,
+      "completion_tokens": 1951
+    },
+    {
+      "task_id": 229,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 119017,
+      "completion_tokens": 1409
+    },
+    {
+      "task_id": 230,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 97397,
+      "completion_tokens": 1677
+    },
+    {
+      "task_id": 231,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 124039,
+      "completion_tokens": 1085
+    },
+    {
+      "task_id": 232,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 141068,
+      "completion_tokens": 1597
+    },
+    {
+      "task_id": 233,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 124704,
+      "completion_tokens": 1432
+    },
+    {
+      "task_id": 234,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 187135,
+      "completion_tokens": 1515
+    },
+    {
+      "task_id": 235,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 190075,
+      "completion_tokens": 1424
+    },
+    {
+      "task_id": 236,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 187963,
+      "completion_tokens": 1371
+    },
+    {
+      "task_id": 237,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 204038,
+      "completion_tokens": 922
+    },
+    {
+      "task_id": 238,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 161560,
+      "completion_tokens": 1504
+    },
+    {
+      "task_id": 239,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 183804,
+      "completion_tokens": 1342
+    },
+    {
+      "task_id": 240,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 121527,
+      "completion_tokens": 2053
+    },
+    {
+      "task_id": 241,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 187033,
+      "completion_tokens": 1416
+    },
+    {
+      "task_id": 242,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 151392,
+      "completion_tokens": 945
+    },
+    {
+      "task_id": 243,
+      "status": "completed",
+      "reward": 0.6666666666666666,
+      "steps": 3,
+      "prompt_tokens": 9578,
+      "completion_tokens": 137
+    },
+    {
+      "task_id": 244,
+      "status": "completed",
+      "reward": 0.5,
+      "steps": 4,
+      "prompt_tokens": 13871,
+      "completion_tokens": 204
+    },
+    {
+      "task_id": 245,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 182291,
+      "completion_tokens": 1020
+    },
+    {
+      "task_id": 246,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 3,
+      "prompt_tokens": 9805,
+      "completion_tokens": 180
+    },
+    {
+      "task_id": 247,
+      "status": "completed",
+      "reward": 0.6666666666666666,
+      "steps": 3,
+      "prompt_tokens": 9954,
+      "completion_tokens": 238
+    },
+    {
+      "task_id": 248,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 215779,
+      "completion_tokens": 901
+    },
+    {
+      "task_id": 249,
+      "status": "completed",
+      "reward": 0.06666666666666667,
+      "steps": 4,
+      "prompt_tokens": 13413,
+      "completion_tokens": 208
+    },
+    {
+      "task_id": 250,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 199072,
+      "completion_tokens": 878
+    },
+    {
+      "task_id": 251,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 118939,
+      "completion_tokens": 1454
+    },
+    {
+      "task_id": 252,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 147576,
+      "completion_tokens": 1617
+    },
+    {
+      "task_id": 253,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 156109,
+      "completion_tokens": 987
+    },
+    {
+      "task_id": 254,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 97108,
+      "completion_tokens": 1128
+    },
+    {
+      "task_id": 255,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 160339,
+      "completion_tokens": 1533
+    },
+    {
+      "task_id": 256,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 136344,
+      "completion_tokens": 1823
+    },
+    {
+      "task_id": 257,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 105303,
+      "completion_tokens": 903
+    },
+    {
+      "task_id": 258,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 125809,
+      "completion_tokens": 1517
+    },
+    {
+      "task_id": 259,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 98073,
+      "completion_tokens": 1399
+    },
+    {
+      "task_id": 260,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 188005,
+      "completion_tokens": 848
+    },
+    {
+      "task_id": 261,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 200337,
+      "completion_tokens": 1194
+    },
+    {
+      "task_id": 262,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 167712,
+      "completion_tokens": 1610
+    },
+    {
+      "task_id": 263,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 152703,
+      "completion_tokens": 1434
+    },
+    {
+      "task_id": 264,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 215645,
+      "completion_tokens": 1558
+    },
+    {
+      "task_id": 265,
+      "status": "completed",
+      "reward": 1.0,
+      "steps": 4,
+      "prompt_tokens": 13655,
+      "completion_tokens": 241
+    },
+    {
+      "task_id": 266,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 212298,
+      "completion_tokens": 1182
+    },
+    {
+      "task_id": 267,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 206103,
+      "completion_tokens": 1267
+    },
+    {
+      "task_id": 268,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 285756,
+      "completion_tokens": 1164
+    },
+    {
+      "task_id": 269,
+      "status": "completed",
+      "reward": 0.75,
+      "steps": 3,
+      "prompt_tokens": 9712,
+      "completion_tokens": 153
+    },
+    {
+      "task_id": 270,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 191676,
+      "completion_tokens": 824
+    },
+    {
+      "task_id": 271,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 201547,
+      "completion_tokens": 1150
+    },
+    {
+      "task_id": 272,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 167690,
+      "completion_tokens": 1221
+    },
+    {
+      "task_id": 273,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 219661,
+      "completion_tokens": 2288
+    },
+    {
+      "task_id": 274,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 203090,
+      "completion_tokens": 880
+    },
+    {
+      "task_id": 275,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 2,
+      "prompt_tokens": 6017,
+      "completion_tokens": 1065
+    },
+    {
+      "task_id": 276,
+      "status": "completed",
+      "reward": 0.6666666666666666,
+      "steps": 7,
+      "prompt_tokens": 27880,
+      "completion_tokens": 338
+    },
+    {
+      "task_id": 277,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 194934,
+      "completion_tokens": 1346
+    },
+    {
+      "task_id": 278,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 180873,
+      "completion_tokens": 1142
+    },
+    {
+      "task_id": 279,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 137276,
+      "completion_tokens": 1048
+    },
+    {
+      "task_id": 280,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 164112,
+      "completion_tokens": 1732
+    },
+    {
+      "task_id": 281,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 131898,
+      "completion_tokens": 824
+    },
+    {
+      "task_id": 282,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 155433,
+      "completion_tokens": 2068
+    },
+    {
+      "task_id": 283,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 202279,
+      "completion_tokens": 1028
+    },
+    {
+      "task_id": 284,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 147695,
+      "completion_tokens": 1883
+    },
+    {
+      "task_id": 285,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 449534,
+      "completion_tokens": 1308
+    },
+    {
+      "task_id": 286,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 93129,
+      "completion_tokens": 1127
+    },
+    {
+      "task_id": 287,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 134066,
+      "completion_tokens": 946
+    },
+    {
+      "task_id": 288,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 150452,
+      "completion_tokens": 1412
+    },
+    {
+      "task_id": 289,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 195237,
+      "completion_tokens": 923
+    },
+    {
+      "task_id": 290,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 144917,
+      "completion_tokens": 1576
+    },
+    {
+      "task_id": 291,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 203989,
+      "completion_tokens": 1716
+    },
+    {
+      "task_id": 292,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 195991,
+      "completion_tokens": 1099
+    },
+    {
+      "task_id": 293,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 87149,
+      "completion_tokens": 894
+    },
+    {
+      "task_id": 294,
+      "status": "completed",
+      "reward": 0.5,
+      "steps": 4,
+      "prompt_tokens": 15736,
+      "completion_tokens": 475
+    },
+    {
+      "task_id": 295,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 171301,
+      "completion_tokens": 611
+    },
+    {
+      "task_id": 296,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 223570,
+      "completion_tokens": 1020
+    },
+    {
+      "task_id": 297,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 238184,
+      "completion_tokens": 2098
+    },
+    {
+      "task_id": 298,
+      "status": "completed",
+      "reward": 0.2,
+      "steps": 3,
+      "prompt_tokens": 9815,
+      "completion_tokens": 222
+    },
+    {
+      "task_id": 299,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 152738,
+      "completion_tokens": 1596
+    },
+    {
+      "task_id": 300,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 86947,
+      "completion_tokens": 1000
+    },
+    {
+      "task_id": 301,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 142683,
+      "completion_tokens": 1670
+    },
+    {
+      "task_id": 302,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 196169,
+      "completion_tokens": 821
+    },
+    {
+      "task_id": 303,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 184999,
+      "completion_tokens": 841
+    },
+    {
+      "task_id": 304,
+      "status": "completed",
+      "reward": 1.0,
+      "steps": 4,
+      "prompt_tokens": 13606,
+      "completion_tokens": 260
+    },
+    {
+      "task_id": 305,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 187976,
+      "completion_tokens": 1267
+    },
+    {
+      "task_id": 306,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 137715,
+      "completion_tokens": 1275
+    },
+    {
+      "task_id": 307,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 133400,
+      "completion_tokens": 940
+    },
+    {
+      "task_id": 308,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 168992,
+      "completion_tokens": 1085
+    },
+    {
+      "task_id": 309,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 213042,
+      "completion_tokens": 1717
+    },
+    {
+      "task_id": 310,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 86822,
+      "completion_tokens": 1017
+    },
+    {
+      "task_id": 311,
+      "status": "completed",
+      "reward": 1.0,
+      "steps": 5,
+      "prompt_tokens": 20113,
+      "completion_tokens": 388
+    },
+    {
+      "task_id": 312,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 231061,
+      "completion_tokens": 1842
+    },
+    {
+      "task_id": 313,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 229430,
+      "completion_tokens": 1210
+    },
+    {
+      "task_id": 314,
+      "status": "completed",
+      "reward": 1.0,
+      "steps": 3,
+      "prompt_tokens": 9403,
+      "completion_tokens": 199
+    },
+    {
+      "task_id": 315,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 743480,
+      "completion_tokens": 3475
+    },
+    {
+      "task_id": 316,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 83278,
+      "completion_tokens": 858
+    },
+    {
+      "task_id": 317,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 204905,
+      "completion_tokens": 885
+    },
+    {
+      "task_id": 318,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 213330,
+      "completion_tokens": 1371
+    },
+    {
+      "task_id": 319,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 215947,
+      "completion_tokens": 1590
+    },
+    {
+      "task_id": 320,
+      "status": "completed",
+      "reward": 1.0,
+      "steps": 3,
+      "prompt_tokens": 9632,
+      "completion_tokens": 185
+    },
+    {
+      "task_id": 321,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 87861,
+      "completion_tokens": 1135
+    },
+    {
+      "task_id": 322,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 201953,
+      "completion_tokens": 907
+    },
+    {
+      "task_id": 323,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 167704,
+      "completion_tokens": 2441
+    },
+    {
+      "task_id": 324,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 166066,
+      "completion_tokens": 1005
+    },
+    {
+      "task_id": 325,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 200391,
+      "completion_tokens": 1299
+    },
+    {
+      "task_id": 326,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 177097,
+      "completion_tokens": 1518
+    },
+    {
+      "task_id": 327,
+      "status": "completed",
+      "reward": 0.25,
+      "steps": 3,
+      "prompt_tokens": 9658,
+      "completion_tokens": 180
+    },
+    {
+      "task_id": 328,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 119709,
+      "completion_tokens": 1093
+    },
+    {
+      "task_id": 329,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 152895,
+      "completion_tokens": 2678
+    },
+    {
+      "task_id": 330,
+      "status": "completed",
+      "reward": 1.0,
+      "steps": 3,
+      "prompt_tokens": 10096,
+      "completion_tokens": 581
+    },
+    {
+      "task_id": 331,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 97370,
+      "completion_tokens": 1645
+    },
+    {
+      "task_id": 332,
+      "status": "completed",
+      "reward": 0.06666666666666667,
+      "steps": 3,
+      "prompt_tokens": 9533,
+      "completion_tokens": 199
+    },
+    {
+      "task_id": 333,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 195156,
+      "completion_tokens": 1438
+    },
+    {
+      "task_id": 334,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 205863,
+      "completion_tokens": 1360
+    },
+    {
+      "task_id": 335,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 95562,
+      "completion_tokens": 1292
+    },
+    {
+      "task_id": 336,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 5,
+      "prompt_tokens": 18876,
+      "completion_tokens": 1240
+    },
+    {
+      "task_id": 337,
+      "status": "completed",
+      "reward": 0.6666666666666666,
+      "steps": 3,
+      "prompt_tokens": 9338,
+      "completion_tokens": 233
+    },
+    {
+      "task_id": 338,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 183243,
+      "completion_tokens": 1187
+    },
+    {
+      "task_id": 339,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 218628,
+      "completion_tokens": 1198
+    },
+    {
+      "task_id": 340,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 128782,
+      "completion_tokens": 1494
+    },
+    {
+      "task_id": 341,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 180255,
+      "completion_tokens": 1211
+    },
+    {
+      "task_id": 342,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 139683,
+      "completion_tokens": 1472
+    },
+    {
+      "task_id": 343,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 213008,
+      "completion_tokens": 1332
+    },
+    {
+      "task_id": 344,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 117723,
+      "completion_tokens": 726
+    },
+    {
+      "task_id": 345,
+      "status": "completed",
+      "reward": 1.0,
+      "steps": 3,
+      "prompt_tokens": 9666,
+      "completion_tokens": 144
+    },
+    {
+      "task_id": 346,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 148211,
+      "completion_tokens": 2193
+    },
+    {
+      "task_id": 347,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 98074,
+      "completion_tokens": 865
+    },
+    {
+      "task_id": 348,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 179375,
+      "completion_tokens": 946
+    },
+    {
+      "task_id": 349,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 210234,
+      "completion_tokens": 1584
+    },
+    {
+      "task_id": 350,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 92660,
+      "completion_tokens": 1438
+    },
+    {
+      "task_id": 351,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 138020,
+      "completion_tokens": 1080
+    },
+    {
+      "task_id": 352,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 154074,
+      "completion_tokens": 1633
+    },
+    {
+      "task_id": 353,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 199312,
+      "completion_tokens": 898
+    },
+    {
+      "task_id": 354,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 90868,
+      "completion_tokens": 1175
+    },
+    {
+      "task_id": 355,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 194514,
+      "completion_tokens": 926
+    },
+    {
+      "task_id": 356,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 174135,
+      "completion_tokens": 1452
+    },
+    {
+      "task_id": 357,
+      "status": "completed",
+      "reward": 1.0,
+      "steps": 3,
+      "prompt_tokens": 9283,
+      "completion_tokens": 141
+    },
+    {
+      "task_id": 358,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 182749,
+      "completion_tokens": 1250
+    },
+    {
+      "task_id": 359,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 192572,
+      "completion_tokens": 978
+    },
+    {
+      "task_id": 360,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 190122,
+      "completion_tokens": 818
+    },
+    {
+      "task_id": 361,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 212789,
+      "completion_tokens": 1266
+    },
+    {
+      "task_id": 362,
+      "status": "completed",
+      "reward": 0.3333333333333333,
+      "steps": 3,
+      "prompt_tokens": 10237,
+      "completion_tokens": 336
+    },
+    {
+      "task_id": 363,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 118425,
+      "completion_tokens": 792
+    },
+    {
+      "task_id": 364,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 90521,
+      "completion_tokens": 880
+    },
+    {
+      "task_id": 365,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 189956,
+      "completion_tokens": 1360
+    },
+    {
+      "task_id": 366,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 175595,
+      "completion_tokens": 1424
+    },
+    {
+      "task_id": 367,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 159670,
+      "completion_tokens": 840
+    },
+    {
+      "task_id": 368,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 207792,
+      "completion_tokens": 1307
+    },
+    {
+      "task_id": 369,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 166080,
+      "completion_tokens": 1252
+    },
+    {
+      "task_id": 370,
+      "status": "completed",
+      "reward": 0.75,
+      "steps": 3,
+      "prompt_tokens": 9510,
+      "completion_tokens": 250
+    },
+    {
+      "task_id": 371,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 101168,
+      "completion_tokens": 1160
+    },
+    {
+      "task_id": 372,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 209790,
+      "completion_tokens": 800
+    },
+    {
+      "task_id": 373,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 142528,
+      "completion_tokens": 1297
+    },
+    {
+      "task_id": 374,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 215019,
+      "completion_tokens": 921
+    },
+    {
+      "task_id": 375,
+      "status": "completed",
+      "reward": 1.0,
+      "steps": 4,
+      "prompt_tokens": 13710,
+      "completion_tokens": 287
+    },
+    {
+      "task_id": 376,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 220350,
+      "completion_tokens": 600
+    },
+    {
+      "task_id": 377,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 145747,
+      "completion_tokens": 1645
+    },
+    {
+      "task_id": 378,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 162223,
+      "completion_tokens": 966
+    },
+    {
+      "task_id": 379,
+      "status": "completed",
+      "reward": 1.0,
+      "steps": 5,
+      "prompt_tokens": 18464,
+      "completion_tokens": 278
+    },
+    {
+      "task_id": 380,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 195517,
+      "completion_tokens": 1191
+    },
+    {
+      "task_id": 381,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 192533,
+      "completion_tokens": 1696
+    },
+    {
+      "task_id": 382,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 240381,
+      "completion_tokens": 4016
+    },
+    {
+      "task_id": 383,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 208930,
+      "completion_tokens": 1019
+    },
+    {
+      "task_id": 384,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 86121,
+      "completion_tokens": 859
+    },
+    {
+      "task_id": 385,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 201813,
+      "completion_tokens": 1257
+    },
+    {
+      "task_id": 386,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 216634,
+      "completion_tokens": 1266
+    },
+    {
+      "task_id": 387,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 295269,
+      "completion_tokens": 2101
+    },
+    {
+      "task_id": 388,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 157373,
+      "completion_tokens": 1550
+    },
+    {
+      "task_id": 389,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 205153,
+      "completion_tokens": 1277
+    },
+    {
+      "task_id": 390,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 245745,
+      "completion_tokens": 1135
+    },
+    {
+      "task_id": 391,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 189894,
+      "completion_tokens": 1782
+    },
+    {
+      "task_id": 392,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 135000,
+      "completion_tokens": 1040
+    },
+    {
+      "task_id": 393,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 187954,
+      "completion_tokens": 1187
+    },
+    {
+      "task_id": 394,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 139942,
+      "completion_tokens": 1274
+    },
+    {
+      "task_id": 395,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 154188,
+      "completion_tokens": 1719
+    },
+    {
+      "task_id": 396,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 199449,
+      "completion_tokens": 821
+    },
+    {
+      "task_id": 397,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 197135,
+      "completion_tokens": 1061
+    },
+    {
+      "task_id": 398,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 91349,
+      "completion_tokens": 962
+    },
+    {
+      "task_id": 399,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 182837,
+      "completion_tokens": 2764
+    },
+    {
+      "task_id": 400,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 141993,
+      "completion_tokens": 1213
+    },
+    {
+      "task_id": 401,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 139834,
+      "completion_tokens": 1586
+    },
+    {
+      "task_id": 402,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 156720,
+      "completion_tokens": 1706
+    },
+    {
+      "task_id": 403,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 128894,
+      "completion_tokens": 1317
+    },
+    {
+      "task_id": 404,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 158213,
+      "completion_tokens": 1673
+    },
+    {
+      "task_id": 405,
+      "status": "completed",
+      "reward": 0.6666666666666666,
+      "steps": 4,
+      "prompt_tokens": 15338,
+      "completion_tokens": 208
+    },
+    {
+      "task_id": 406,
+      "status": "completed",
+      "reward": 0.5,
+      "steps": 3,
+      "prompt_tokens": 9328,
+      "completion_tokens": 146
+    },
+    {
+      "task_id": 407,
+      "status": "completed",
+      "reward": 0.6666666666666666,
+      "steps": 4,
+      "prompt_tokens": 13785,
+      "completion_tokens": 198
+    },
+    {
+      "task_id": 408,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 227514,
+      "completion_tokens": 1269
+    },
+    {
+      "task_id": 409,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 2,
+      "prompt_tokens": 6054,
+      "completion_tokens": 1071
+    },
+    {
+      "task_id": 410,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 228491,
+      "completion_tokens": 1069
+    },
+    {
+      "task_id": 411,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 132805,
+      "completion_tokens": 1052
+    },
+    {
+      "task_id": 412,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 239563,
+      "completion_tokens": 757
+    },
+    {
+      "task_id": 413,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 205707,
+      "completion_tokens": 1298
+    },
+    {
+      "task_id": 414,
+      "status": "completed",
+      "reward": 1.0,
+      "steps": 5,
+      "prompt_tokens": 21500,
+      "completion_tokens": 342
+    },
+    {
+      "task_id": 415,
+      "status": "completed",
+      "reward": 0.06666666666666667,
+      "steps": 3,
+      "prompt_tokens": 9529,
+      "completion_tokens": 128
+    },
+    {
+      "task_id": 416,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 106292,
+      "completion_tokens": 1373
+    },
+    {
+      "task_id": 417,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 208268,
+      "completion_tokens": 702
+    },
+    {
+      "task_id": 418,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 214462,
+      "completion_tokens": 1513
+    },
+    {
+      "task_id": 419,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 98729,
+      "completion_tokens": 1523
+    },
+    {
+      "task_id": 420,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 204897,
+      "completion_tokens": 4030
+    },
+    {
+      "task_id": 421,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 113313,
+      "completion_tokens": 909
+    },
+    {
+      "task_id": 422,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 267181,
+      "completion_tokens": 6426
+    },
+    {
+      "task_id": 423,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 179560,
+      "completion_tokens": 1708
+    },
+    {
+      "task_id": 424,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 204980,
+      "completion_tokens": 1530
+    },
+    {
+      "task_id": 425,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 165399,
+      "completion_tokens": 1270
+    },
+    {
+      "task_id": 426,
+      "status": "completed",
+      "reward": 0.75,
+      "steps": 4,
+      "prompt_tokens": 14026,
+      "completion_tokens": 388
+    },
+    {
+      "task_id": 427,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 178610,
+      "completion_tokens": 928
+    },
+    {
+      "task_id": 428,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 211204,
+      "completion_tokens": 1338
+    },
+    {
+      "task_id": 429,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 218801,
+      "completion_tokens": 1259
+    },
+    {
+      "task_id": 430,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 216178,
+      "completion_tokens": 2198
+    },
+    {
+      "task_id": 431,
+      "status": "completed",
+      "reward": 0.5,
+      "steps": 3,
+      "prompt_tokens": 9468,
+      "completion_tokens": 198
+    },
+    {
+      "task_id": 432,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 115973,
+      "completion_tokens": 1440
+    },
+    {
+      "task_id": 433,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 142225,
+      "completion_tokens": 1702
+    },
+    {
+      "task_id": 434,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 122325,
+      "completion_tokens": 2837
+    },
+    {
+      "task_id": 435,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 131765,
+      "completion_tokens": 1124
+    },
+    {
+      "task_id": 436,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 148331,
+      "completion_tokens": 1031
+    },
+    {
+      "task_id": 437,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 245498,
+      "completion_tokens": 2891
+    },
+    {
+      "task_id": 438,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 168177,
+      "completion_tokens": 1560
+    },
+    {
+      "task_id": 439,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 137665,
+      "completion_tokens": 1827
+    },
+    {
+      "task_id": 440,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 171286,
+      "completion_tokens": 1827
+    },
+    {
+      "task_id": 441,
+      "status": "completed",
+      "reward": 1.0,
+      "steps": 3,
+      "prompt_tokens": 9423,
+      "completion_tokens": 278
+    },
+    {
+      "task_id": 442,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 2,
+      "prompt_tokens": 5813,
+      "completion_tokens": 1072
+    },
+    {
+      "task_id": 443,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 218498,
+      "completion_tokens": 962
+    },
+    {
+      "task_id": 444,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 294594,
+      "completion_tokens": 1101
+    },
+    {
+      "task_id": 445,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 188540,
+      "completion_tokens": 3081
+    },
+    {
+      "task_id": 446,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 94118,
+      "completion_tokens": 1186
+    },
+    {
+      "task_id": 447,
+      "status": "completed",
+      "reward": 0.3,
+      "steps": 3,
+      "prompt_tokens": 9707,
+      "completion_tokens": 195
+    },
+    {
+      "task_id": 448,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 147428,
+      "completion_tokens": 1429
+    },
+    {
+      "task_id": 449,
+      "status": "completed",
+      "reward": 1.0,
+      "steps": 3,
+      "prompt_tokens": 9686,
+      "completion_tokens": 146
+    },
+    {
+      "task_id": 450,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 214174,
+      "completion_tokens": 1069
+    },
+    {
+      "task_id": 451,
+      "status": "completed",
+      "reward": 0.6666666666666666,
+      "steps": 4,
+      "prompt_tokens": 13614,
+      "completion_tokens": 241
+    },
+    {
+      "task_id": 452,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 94549,
+      "completion_tokens": 869
+    },
+    {
+      "task_id": 453,
+      "status": "completed",
+      "reward": 0.06666666666666667,
+      "steps": 3,
+      "prompt_tokens": 9331,
+      "completion_tokens": 195
+    },
+    {
+      "task_id": 454,
+      "status": "completed",
+      "reward": 1.0,
+      "steps": 3,
+      "prompt_tokens": 9793,
+      "completion_tokens": 192
+    },
+    {
+      "task_id": 455,
+      "status": "completed",
+      "reward": 1.0,
+      "steps": 3,
+      "prompt_tokens": 9339,
+      "completion_tokens": 202
+    },
+    {
+      "task_id": 456,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 87453,
+      "completion_tokens": 1246
+    },
+    {
+      "task_id": 457,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 142118,
+      "completion_tokens": 1077
+    },
+    {
+      "task_id": 458,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 197992,
+      "completion_tokens": 1368
+    },
+    {
+      "task_id": 459,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 137356,
+      "completion_tokens": 1138
+    },
+    {
+      "task_id": 460,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 2,
+      "prompt_tokens": 5808,
+      "completion_tokens": 1064
+    },
+    {
+      "task_id": 461,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 148981,
+      "completion_tokens": 2284
+    },
+    {
+      "task_id": 462,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 138990,
+      "completion_tokens": 1653
+    },
+    {
+      "task_id": 463,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 242973,
+      "completion_tokens": 2852
+    },
+    {
+      "task_id": 464,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 139641,
+      "completion_tokens": 1131
+    },
+    {
+      "task_id": 465,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 147439,
+      "completion_tokens": 1473
+    },
+    {
+      "task_id": 466,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 149984,
+      "completion_tokens": 1684
+    },
+    {
+      "task_id": 467,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 153278,
+      "completion_tokens": 1173
+    },
+    {
+      "task_id": 468,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 113707,
+      "completion_tokens": 1390
+    },
+    {
+      "task_id": 469,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 201232,
+      "completion_tokens": 972
+    },
+    {
+      "task_id": 470,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 128582,
+      "completion_tokens": 828
+    },
+    {
+      "task_id": 471,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 142985,
+      "completion_tokens": 1206
+    },
+    {
+      "task_id": 472,
+      "status": "completed",
+      "reward": 1.0,
+      "steps": 4,
+      "prompt_tokens": 14256,
+      "completion_tokens": 267
+    },
+    {
+      "task_id": 473,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 160833,
+      "completion_tokens": 2089
+    },
+    {
+      "task_id": 474,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 148595,
+      "completion_tokens": 1247
+    },
+    {
+      "task_id": 475,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 200957,
+      "completion_tokens": 1173
+    },
+    {
+      "task_id": 476,
+      "status": "completed",
+      "reward": 0.5,
+      "steps": 4,
+      "prompt_tokens": 14333,
+      "completion_tokens": 254
+    },
+    {
+      "task_id": 477,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 165292,
+      "completion_tokens": 1278
+    },
+    {
+      "task_id": 478,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 144472,
+      "completion_tokens": 1924
+    },
+    {
+      "task_id": 479,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 191041,
+      "completion_tokens": 1299
+    },
+    {
+      "task_id": 480,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 196887,
+      "completion_tokens": 937
+    },
+    {
+      "task_id": 481,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 141706,
+      "completion_tokens": 1274
+    },
+    {
+      "task_id": 482,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 192837,
+      "completion_tokens": 956
+    },
+    {
+      "task_id": 483,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 186196,
+      "completion_tokens": 1356
+    },
+    {
+      "task_id": 484,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 191079,
+      "completion_tokens": 1105
+    },
+    {
+      "task_id": 485,
+      "status": "completed",
+      "reward": 1.0,
+      "steps": 3,
+      "prompt_tokens": 9653,
+      "completion_tokens": 121
+    },
+    {
+      "task_id": 486,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 110085,
+      "completion_tokens": 814
+    },
+    {
+      "task_id": 487,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 170461,
+      "completion_tokens": 1556
+    },
+    {
+      "task_id": 488,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 195980,
+      "completion_tokens": 741
+    },
+    {
+      "task_id": 489,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 101424,
+      "completion_tokens": 851
+    },
+    {
+      "task_id": 490,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 239813,
+      "completion_tokens": 1397
+    },
+    {
+      "task_id": 491,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 90355,
+      "completion_tokens": 970
+    },
+    {
+      "task_id": 492,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 91954,
+      "completion_tokens": 800
+    },
+    {
+      "task_id": 493,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 228100,
+      "completion_tokens": 811
+    },
+    {
+      "task_id": 494,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 196940,
+      "completion_tokens": 1520
+    },
+    {
+      "task_id": 495,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 212657,
+      "completion_tokens": 1193
+    },
+    {
+      "task_id": 496,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 129477,
+      "completion_tokens": 1272
+    },
+    {
+      "task_id": 497,
+      "status": "completed",
+      "reward": 0.4,
+      "steps": 3,
+      "prompt_tokens": 10172,
+      "completion_tokens": 276
+    },
+    {
+      "task_id": 498,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 87516,
+      "completion_tokens": 1157
+    },
+    {
+      "task_id": 499,
+      "status": "completed",
+      "reward": 0.0,
+      "steps": 20,
+      "prompt_tokens": 218289,
+      "completion_tokens": 1021
+    }
+  ]
+}
